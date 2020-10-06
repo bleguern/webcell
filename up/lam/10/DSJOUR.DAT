@@ -1,0 +1,576 @@
+A43119501                                                                     L10 CHEM CL 5/10-ASS     0000002,740000004,16CH11    CG              00000000
+A43191901                                                                     CHEM EUROFOLIO 5/10-ASS  0000000,300000000,87CH11    CG      AUCHAN  00000000
+A43200901                                                                     CHEM CTD'OR CL 5/10-ASS  0000000,520000001,86CH11    CG      AUCHAN  00000000
+A43221901                                                                     CHEM PP 5/10-ASS         0000000,340000001,33CH7     CG      AUCHAN  00000000
+A54951501                                                                     AU-CL A4 D254A CD'OR-ASS 0000000,880000002,30RM18    RC      AUCHAN  00000000
+A58509941                                                                     TRIEUR  8C PP OPAQUE-ASS 0000001,190000003,60TRIEURS CG      AUCHAN  00000000
+A58512941                                                                     TRIEUR 12C PP OPAQUE-INC 0000001,560000003,37TRIEURS CG      AUCHAN  00000000
+A60101905                                                                     CL17X22 D352A CTD'OR-ASS 0000000,970000001,92RM18    RC      AUCHAN  00000000
+A60151901                                                                     CL A6 D35 4A CD'OR-ASS   0000000,900000001,85RM18    RC      AUCHAN  00000000
+A60201901                                                                     CL A5 D35 4A CD'OR-ASS   0000000,960000001,87RM18    RC      AUCHAN  00000000
+A62101905                                                                     AU-CL A4 D404A CD'OR-ASS 0000000,860000002,42RM19    RC      AUCHAN  00000000
+A62102905                                                                     AU-CL24X32 D40 CD'OR-ASS 0000001,070000003,09RM18    RC              00000000
+A62109901                                                                     CLA ERG A4+D45 CD'OR-ASS 0000001,160000003,38RM18    RC              00000000
+A62629901                                                                     AU-YEKA D20 PP OPA-ASS   0000000,520000001,32RM17    RC      AUCHAN  00000000
+A62657901                                                                     CL A4+ D354A PP12/10-ASS 0000000,770000002,50RM19    RC      AUCHAN  00000000
+A62659903                                                                     CLA A4+ D35 4A PP-ASS    0000000,660000002,12RM17    RC              00000000
+A9160901                                                                      AU-TRIEUR12P AUCH PP-ASS 0000001,910000002,39TRIEURS CG              00000000
+G880026-20                                                                    L4 CHEM HAWAI PP         0000001,800000008,25CH13_S  CG              00000010
+G880026-22                                                                    L4 CHEM HAWAI PP         0000001,800000008,25CH13_S  CG              00000000
+00240011                                                                      CL A4+ D30 4A TRIADE-NOI 0000003,470000005,87MMT     RC              00000144
+00240031                                                                      CL A4+ D30 4A TRIADE-BLE 0000003,470000005,59MMT     RC              00000040
+00240071                                                                      CL A4+ D30 4A TRIADE-VRT 0000003,470000005,87MMT     RC              00000000
+00240091                                                                      CL A4+ D30 4A TRIADE-RGE 0000003,470000005,87MMT     RC              00000000
+00251031                                                                      CL 305X240 PPLISTING-BLE 0000002,620000003,15MMT     RC              00000030
+00258011                                                                      CL A4+ D40 4A TRIADE-NOI 0000004,040000006,20MMT     RC              00000028
+00258031                                                                      CL A4+ D40 4A TRIADE-BLE 0000004,040000005,91MMT     RC              00000002
+00258071                                                                      CL A4+ D40 4A TRIADE-VRT 0000004,040000006,20MMT     RC              00000000
+00258091                                                                      CL A4+ D40 4A TRIADE-RGE 0000004,040000006,20MMT     RC              00000000
+00258401                                                                      CL A4+ D40 4A TRIADE-NEL 0000004,360000005,95MMT     RC              00000010
+00258441                                                                      CL A4+ D40 4A TRIADE-BEL 0000004,360000005,95MMT     RC              00000000
+00263031                                                                      CL 210X330 PPLISTING-BLE 0000002,650000004,61MMT     RC              00000000
+00264011                                                                      CL 17X22 D40 3A TRIA-NOI 0000005,250000009,90MMT     RC              00000000
+00269031                                                                      CL 305X380 PPLISTING-BLE 0000002,650000006,20MMT     RC              00000084
+00277011                                                                      CL A4+ D50 4A TRIADE-NOI 0000004,200000006,65MMT     RC              00000000
+00277031                                                                      CL A4+ D50 4A TRIADE-BLE 0000004,200000006,33MMT     RC              00000000
+00277071                                                                      CL A4+ D50 4A TRIADE-VRT 0000004,200000006,65MMT     RC              00000000
+00277091                                                                      CL A4+ D50 4A TRIADE-RGE 0000004,200000006,65MMT     RC              00000000
+00453011                                                                      CL ETR A4+ D75 PVC-NOI   0000003,460000014,92MMT     RC              00000002
+00453031                                                                      CL ETR A4+ D75 PVC-BLE   0000003,460000014,92MMT     RC              00000000
+00453051                                                                      CL ETR A4+ D75 PVC-BDX   0000003,460000014,92MMT     RC              00000000
+00453071                                                                      CL ETR A4+ D75 PVC-VRT   0000003,460000014,21MMT     RC              00000000
+00922011                                                                      FI-CLA4 D30 PROG PVC-NOI 0000002,240000004,26MMT     RC              00000000
+00922031                                                                      FI-CLA4 D30 PROG PVC-BLE 0000002,240000004,26MMT     RC              00000000
+00922071                                                                      FI-CLA4 D30 PROG PVC-VRT 0000002,320000004,26MMT     RC              00000240
+00922091                                                                      FI-CLA4 D30 PROG PVC-RGE 0000002,320000004,26MMT     RC              00000000
+00922121                                                                      FI-CLA4 D30 PROG PVC-BCL 0000002,320000004,26MMT     RC              00000000
+00923011                                                                      FI-CLA4 D45 PROG PVC-NOI 0000002,350000004,31MMT     RC              00000000
+00923031                                                                      FI-CLA4 D45 PROG PVC-BLE 0000002,350000004,31MMT     RC              00000000
+00923071                                                                      FI-CLA4 D45 PROG PVC-VRT 0000002,420000004,31MMT     RC              00000000
+00923091                                                                      FI-CLA4 D45 PROG PVC-RGE 0000002,420000004,31MMT     RC              00000000
+00923121                                                                      FI-CLA4 D45 PROG PVC-BCL 0000002,420000004,31MMT     RC              00000000
+00924011                                                                      FI-CLA4 D60 PROG PVC-NOI 0000002,410000004,80MMT     RC              00000000
+00924031                                                                      FI-CLA4 D60 PROG PVC-BLE 0000002,410000004,80MMT     RC              00000300
+00924071                                                                      FI-CLA4 D60 PROG PVC-VRT 0000002,490000004,80MMT     RC              00000300
+00924091                                                                      FI-CLA4 D60 PROG PVC-RGE 0000002,490000004,80MMT     RC              00000000
+00924121                                                                      FI-CLA4 D60 PROG PVC-BCL 0000002,490000004,80MMT     RC              00000000
+00934121                                                                      CL ETR A4+D80 4A PP-BLE  0000002,690000012,13MMT     RC              00000000
+019738-40                                                                     CHEM CROSSLINE PP        0000000,400000001,22CH7     CG              00000000
+01973801-40                                                                   CHEM CROSSLINE PP        0000000,450000001,18CH7     CG              00000000
+01983801-40                                                                   CHEM CROSSLINE PP        0000000,400000001,64CH7     CG              00000840
+01986011                                                                      SP-CL305x240 LIST 5*-NOI 0000001,910000004,04MMT     RC              00000020
+01986091                                                                      SP-CL305x240 LIST 5*-RGE 0000001,910000004,04MMT     RC              00000000
+01986121                                                                      SP-CL305x240 LIST 5*-BCL 0000001,330000004,04MMT     RC              00000040
+01987011                                                                      SP-CL305x380 LIST 5*-NOI 0000002,360000004,81MMT     RC              00000000
+01987091                                                                      SP-CL305x380 LIST 5*-RGE 0000002,360000004,81MMT     RC              00000000
+01987121                                                                      SP-CL305x380 LIST 5*-BCL 0000001,620000004,81MMT     RC              00000020
+089759-20                                                                     CHEM EVOL BLOOM          0000000,510000000,98PERONI  CG              00000000
+108207-20                                                                     CO-YEKA D20 4A METAL-ASS 0000000,820000000,58RM17    RC      PROVER  00000390
+108208-20                                                                     CO-L3 YEKA D20 METAL-ASS 0000001,650000001,74RM17    RC      PROVER  00000000
+108209-20                                                                     CO-CL A4+ D35 METAL-ASS  0000001,130000000,95RM17    RC      PROVER  00000198
+108210-20                                                                     CO-L3 CL A4+ D35 MET-ASS 0000002,660000002,84RM17    RC      PROVER  00000000
+110519-07                                                                     C SPLE TOP FILE 5/10     0000000,210000000,28CH9     CG              00000050
+110519-13                                                                     C SPLE TOP FILE 5/10     0000000,210000000,28CH9     CG              00000050
+110519-14                                                                     C SPLE TOP FILE 5/10     0000000,210000000,28CH9     CG              00000000
+112306-20                                                                     C SPLE CL 5/10           0000000,200000000,43CH9     CG              00000000
+120306-20                                                                     CHEM CL 5/10 SS ETI      0000000,260000000,71CH11    CG              00000250
+120360-20                                                                     L5 CHEM EUROF 5/10-ASS   0000001,730000003,90CH4_S   CG              00000000
+120418-20                                                                     L7+3 CHEM CL + ETIQ      0000002,400000002,75CH12_S  CG              00000000
+12041850-20                                                                   L7+3 CHEM CL + ETIQ      0000002,410000002,75CH12_S  CG              00000000
+120440-07                                                                     CHEM 24X32 TOUAREG       0000000,420000001,18PERONI  CG              00004960
+120445-07                                                                     L2 CHEM 24X32 TOUAREG    0000000,000000001,50                        00000000
+120460-20                                                                     L4+1CHEM EUROF MEMO-ASS  0000001,900000003,15CH11_S  CG              00000000
+120515-03                                                                     CHEM BOSTON CL 5/10      0000000,310000000,37CH10_S  CG              00002500
+120515-07                                                                     CHEM BOSTON CL 5/10      0000000,310000000,37CH10_S  CG              00002500
+120515-08                                                                     CHEM BOSTON CL 5/10      0000000,310000000,37CH10_S  CG              00002500
+120515-09                                                                     CHEM BOSTON CL 5/10      0000000,310000000,37CH10_S  CG              00000050
+120515-13                                                                     CHEM BOSTON CL 5/10      0000000,310000000,37CH10_S  CG              00003500
+120515-14                                                                     CHEM BOSTON CL 5/10      0000000,310000000,37CH10_S  CG              00000000
+120515-20                                                                     CHEM BOSTON CL 5/10      0000000,310000000,37CH10_S  CG              00011200
+120515-21                                                                     CHEM BOSTON CL 5/10      0000000,310000000,37CH10_S  CG              00000600
+1205190563-20                                                                 L10 CHEM TOPFILE         0000002,360000002,79CH12    CG              00001800
+120615-03                                                                     CHEM CTD'OR CL 7/10      0000000,400000001,35CH11    CG              00000125
+120615-04                                                                     CHEM CTD'OR CL 7/10      0000000,400000001,35CH11    CG              00000000
+120615-06                                                                     CHEM CTD'OR CL 7/10      0000000,400000001,35CH11    CG              00000000
+120615-08                                                                     CHEM CTD'OR CL 7/10      0000000,400000001,35CH11    CG              00000125
+120615-09                                                                     CHEM CTD'OR CL 7/10      0000000,400000001,35CH11    CG              00000000
+120615-13                                                                     CHEM CTD'OR CL 7/10      0000000,400000001,35CH11    CG              00000050
+120615-14                                                                     CHEM CTD'OR CL 7/10      0000000,400000001,35CH11    CG              00000025
+120615-20                                                                     CHEM CTD'OR CL 7/10      0000000,400000001,35CH11    CG              00000100
+140519-03                                                                     CHEM RAB SS ELA CL       0000000,270000000,39CH10_S  CG              00000000
+140519-07                                                                     CHEM RAB SS ELA CL       0000000,270000000,39CH10_S  CG              00000000
+140519-08                                                                     CHEM RAB SS ELA CL       0000000,270000000,39CH10_S  CG              00000000
+140519-13                                                                     CHEM RAB SS ELA CL       0000000,270000000,39CH10_S  CG              00000000
+140519-14                                                                     CHEM RAB SS ELA CL       0000000,270000000,39CH10_S  CG              00000000
+140519-20                                                                     CHEM RAB SS ELA CL       0000000,270000000,39CH10_S  CG              00001500
+141152-20                                                                     CO-CHEM METAL PP-ASS     0000000,470000000,47CH13    CG      PROVER  00000350
+141153-20                                                                     CO-L3 CHEM METAL PP-ASS  0000001,520000001,42CH13    CG      PROVER  00000000
+180897-03                                                                     OD-CHEM NDAY CL450G      0000000,310000001,46CH10_S  CG      OFFICE  00000000
+180903-07                                                                     OD-CHEM NDAY CL450G      0000000,300000001,46CH10_S  CG      OFFICE  00000400
+180904-08                                                                     OD-CHEM NDAY CL450G      0000000,310000001,46CH10_S  CG      OFFICE  00000800
+180905-13                                                                     OD-CHEM NDAY CL450G      0000000,300000001,46CH10_S  CG      OFFICE  00000800
+180906-14                                                                     OD-CHEM NDAY CL450G      0000000,310000001,46CH10_S  CG      OFFICE  00000000
+180907-20                                                                     OD-L10 CHEM NDAY CL      0000003,050000014,58CH10_S  CG      OFFICE  00000500
+189759-20                                                                     L2 CHEM EVOL BLOOM       0000000,000000000,10                AUCHAN  00000000
+191211-06                                                                     FI-C SPLE PERF CL        0000000,210000000,96CH9     CG      FIDUCI  00000000
+191211-15                                                                     FI-C SPLE PERF CL        0000000,210000000,96CH9     CG      FIDUCI  00000000
+191211-18                                                                     FI-C SPLE PERF CL        0000000,210000000,96CH9     CG      FIDUCI  00000000
+191211-19                                                                     FI-C SPLE PERF CL        0000000,210000000,96CH9     CG      FIDUCI  00000000
+191211-22                                                                     FI-C SPLE PERF CL        0000000,210000000,96CH9     CG      FIDUCI  00000000
+191223-06                                                                     FI-CHEM PERF CL 450G     0000000,260000001,46CH12    CG      FIDUCI  00000000
+191223-15                                                                     FI-CHEM PERF CL 450G     0000000,260000001,46CH12    CG      FIDUCI  00010000
+191223-18                                                                     FI-CHEM PERF CL 450G     0000000,260000001,46CH12    CG      FIDUCI  00000000
+191223-19                                                                     FI-CHEM PERF CL 450G     0000000,260000001,46CH12    CG      FIDUCI  00000000
+191223-22                                                                     FI-CHEM PERF CL 450G     0000000,260000001,46CH12    CG      FIDUCI  00000000
+191223-25                                                                     FI-CHEM PERF CL 450G     0000000,260000001,46CH12    CG      FIDUCI  00000000
+191223-28                                                                     FI-CHEM PERF CL 450G     0000000,260000001,46CH12    CG      FIDUCI  00000000
+20093901-03                                                                   CHEM TRANSPARENCE        0000000,320000001,59CH7     CG              00000000
+20093901-17                                                                   CHEM TRANSPARENCE        0000000,320000001,59CH7     CG              00000000
+20093901-20                                                                   CHEM TRANSPARENCE        0000000,320000001,59CH7     CG              00000500
+20093903-20                                                                   L3+1 CHEM PP TRANSPARENC 0000000,000000000,10                        00000000
+20093909-20                                                                   CHEM A4 PP TRANSPARENCE  0000000,380000001,59 CH13    CG             00000420
+20094301-20                                                                   L3 CHEM TRANSP PP        0000001,000000005,64CH7_S   CG              00000000
+208700-20                                                                     CL A4 D40 4A BAYAD-ASS   0000000,850000000,10RM19    RC              00000000
+208800-20                                                                     CL A4 D40 4A ZEN         0000001,210000002,31RM19    RC              00000120
+23983801-40                                                                   L3 CHEM CROSSLINE        0000001,280000002,71CH7_S   CG              00000000
+23983802-40                                                                   L3 CHEM CROSSLINE        0000000,000000000,10CH7     CG              00000000
+240838-40                                                                     L2+1 CHEM CROSSLINE      0000001,430000003,69CH7_S   CG              00000000
+250838-40                                                                     L3+1 CHEM CROSSLINE      0000000,000000002,07                        00000000
+294860-20                                                                     CS-CLA4+D40 4A CAS       0000001,020000000,96RM19    RC      E M C   00000320
+294903-20                                                                     CL A5IT D35 2A OPAL -ASS 0000000,590000001,52RM18    RC              00000100
+294904-20                                                                     CL A6IT D35 2A OPAL -ASS 0000000,540000001,47RM18    RC              00000020
+318353-21                                                                     AU-TRIEUR 12C TRANSL PP  0000001,410000000,10TRIEURS CG      AUCHAN  00000000
+402245-20                                                                     AU-L7+3 CHEM CL + ET     0000002,730000000,10CH12    CG      AUCHAN  00000000
+40224550-20                                                                   AU-LT7+3 CHEM CL + ETIQ  0000002,410000000,10CH12    CG      AUCHAN  00000000
+42003032                                                                      C SPLE CL 5/10-BLE       0000000,220000000,28CH9_S   CG              00004950
+42003072                                                                      C SPLE CL 5/10-VRT       0000000,220000000,28CH9_S   CG              00001100
+42003092                                                                      C SPLE CL 5/10-RGE       0000000,220000000,28CH9_S   CG              00002750
+42003132                                                                      C SPLE CL 5/10-JAU       0000000,220000000,28CH9_S   CG              00002550
+42003212                                                                      C SPLE CL 5/10-ORG       0000000,220000000,28CH9_S   CG              00002000
+42003902                                                                      C SPLE CL 5/10-ASS       0000000,220000000,28CH9_S   CG              00009250
+42003932                                                                      C SPLE CL 5/10-ASS       0000000,220000000,28CH9_S   CG              00000000
+42056011                                                                      LY-L10 C SPLE IMP CL-NOI 0000002,230000002,99CH9_S   CG              00000150
+42056031                                                                      LY-L10 C SPLE IMP CL-BLE 0000002,230000002,99CH9_S   CG              00000000
+42056071                                                                      LY-L10 C SPLE IMP CL-VRT 0000002,230000002,99CH9_S   CG              00000640
+42056091                                                                      LY-L10 C SPLE IMP CL-RGE 0000002,230000002,99CH9_S   CG              00000800
+42056131                                                                      LY-L10 C SPLE IMP CL-JAU 0000002,230000002,99CH9_S   CG              00000500
+42056901                                                                      LY-L25 C SPLE IMP CL-ASS 0000005,340000007,51CH9_S   CG              00000160
+42091031                                                                      C SPLE EUROF CG 5/10-BGI 0000000,250000000,42CH9     CG              00000000
+4209103101                                                                    C SPLE EUROF CG 5/10-BGI 0000000,260000000,40 CH9    CG              00000000
+42091071                                                                      C SPLE EUROF CG 5/10-VCA 0000000,250000000,42CH9     CG              00000000
+4209107101                                                                    C SPLE EUROF CG 5/10-VCA 0000000,260000000,40CH9     CG              00000000
+42091091                                                                      C SPLE EUROF CG 5/10-RRU 0000000,250000000,42CH9     CG              00000000
+4209109101                                                                    C SPLE EUROF CG 5/10-RRU 0000000,260000000,40CH9     CG              00000000
+42091131                                                                      C SPLE EUROF CG 5/10-JCU 0000000,250000000,42CH9     CG              00000000
+42091901                                                                      C SPLE EUROF CG 5/10-ASS 0000000,250000000,74CH9     CG              00004000
+4209190101                                                                    C SPLE EUROF CG 5/10-ASS 0000000,260000000,40CH9     CG              00000000
+42092031                                                                      SP-C SPLE  5* CL5/10-BLE 0000000,210000000,25CH9     CG              00004000
+42092071                                                                      SP-C SPLE  5* CL5/10-VRT 0000000,210000000,25CH9     CG              00000000
+42092091                                                                      SP-C SPLE  5* CL5/10-RGE 0000000,210000000,25CH9     CG              00000000
+42092131                                                                      SP-C SPLE  5* CL5/10-JAU 0000000,210000000,25CH9     CG              00000000
+42092161                                                                      SP-C SPLE  5* CL5/10-VIO 0000000,210000000,25CH9     CG              00001000
+42092211                                                                      SP-C SPLE  5* CL5/10-ORG 0000000,210000000,25CH9     CG              00000000
+42092901                                                                      SP-C SPLE  5* CL5/10-ASS 0000000,210000000,25CH9     CG              00008000
+42093031                                                                      SP-L10 CHEM 5*CL5/10-BLE 0000002,310000002,75CH9_S   CG              00000000
+42093071                                                                      SP-L10 CHEM 5*CL5/10-VRT 0000002,310000002,75CH9_S   CG              00000000
+42093091                                                                      SP-L10 CHEM 5*CL5/10-RGE 0000002,310000002,75CH9_S   CG              00000000
+42093131                                                                      SP-L10 CHEM 5*CL5/10-JAU 0000002,310000002,75CH9_S   CG              00000050
+42093211                                                                      SP-L10 CHEM 5*CL5/10-ORG 0000002,310000002,75CH9_S   CG              00000000
+42093901                                                                      SP-L10 CHEM 5*CL5/10-ASS 0000002,310000002,75CH9_S   CG              00000000
+42701-21                                                                      C SPLE EUROF CG 7/10     0000000,330000000,57CH9     CG              00000000
+4270101-21                                                                    C SPLE EUROF CG 7/10     0000000,340000000,54CH9     CG              00000000
+42701011                                                                      C SPLE EUROF CG 7/10-NOI 0000000,310000000,57CH9     CG              00000000
+4270101101                                                                    C SPLE EUROF CG 7/10-NOI 0000000,340000000,54CH9     CG              00000000
+42701031                                                                      C SPLE EUROF CG 7/10-BGI 0000000,310000000,57CH9     CG              00002400
+4270103101                                                                    C SPLE EUROF CG 7/10-BGI 0000000,340000000,54CH9     CG              00000000
+42701071                                                                      C SPLE EUROF CG 7/10-VCA 0000000,310000000,57CH9     CG              00000100
+4270107101                                                                    C SPLE EUROF CG 7/10-VCA 0000000,340000000,54CH9     CG              00000000
+42701091                                                                      C SPLE EUROF CG 7/10-RRU 0000000,310000000,57CH9     CG              00000900
+4270109101                                                                    C SPLE EUROF CG 7/10-RRU 0000000,340000000,54CH9     CG              00000000
+42701131                                                                      C SPLE EUROF CG 7/10-JCU 0000000,310000000,57CH9     CG              00002000
+4270113101                                                                    C SPLE EUROF CG 7/10-JCU 0000000,340000000,54CH9     CG              00000000
+42701491                                                                      C SPLE EUROF CG 7/10-RPO 0000000,320000000,57CH9     CG              00000000
+42701901                                                                      C SPLE EUROF CG 7/10-ASS 0000000,310000000,57CH9     CG              00002000
+4270190101                                                                    C SPLE EUROF CG 7/10-ASS 0000000,320000000,54CH9     CG              00000000
+42803131                                                                      DU-C SPLE CL 5/10-JAU    0000000,320000000,48CH9     CG              00000000
+43000901                                                                      POCH MALICE EUROF-ASS    0000000,200000001,65PRISON  CG              00001200
+43000902-20                                                                   POCH MALICE EUROF-ASS    0000000,200000001,65                        00000000
+43005901                                                                      POCH MALICE OPALINE-ASS  0000000,230000002,14PRISON  CG              00000800
+43006901                                                                       POCH MALICE EXP FILLE   0000000,450000001,72PRISON  CG              00000000
+43101031                                                                      CHEM EUROF MEMO 5/10-BGI 0000000,340000000,61CH4     CG              00000000
+43101141                                                                      CHEM EUROF MEMO 5/10-GCL 0000000,340000000,61CH4     CG              00000000
+43101901                                                                      CHEM EUROF MEMO 5/10-ASS 0000000,340000000,61CH11    CG              00000625
+4310190101                                                                    CHEM EUROF MEMO 5/10-ASS 0000000,360000000,58CH11    CH              00000000
+43103012                                                                      CHEM CL 5/10-NOI         0000000,270000000,30CH12    CG              00000000
+43103142                                                                      CHEM CL 5/10-GRI         0000000,270000000,30CH12    CG              00000000
+43103212                                                                      CHEM CL 5/10-ORG         0000000,270000000,30CH12    CG              00000000
+43103902                                                                      CHEM CL 5/10-ASS         0000000,270000000,30CH10    CG              00000000
+43103923                                                                      CHEM CL 5/10-ASS         0000000,240000000,32CH10    CG              00000000
+43106901                                                                      CHEM IMPRIME CL 5/10-ASS 0000000,280000000,82CH11    CG              00000300
+43108031                                                                      SP-CHEM 5* CL 5/10-BLE   0000000,260000000,30CH11    CG              00003000
+43108071                                                                      SP-CHEM 5* CL 5/10-VRT   0000000,260000000,30CH11    CG              00000000
+43108091                                                                      SP-CHEM 5* CL 5/10-RGE   0000000,260000000,30CH11    CG              00003000
+43108131                                                                      SP-CHEM 5* CL 5/10-JAU   0000000,260000000,30CH11    CG              00000000
+43108161                                                                      SP-CHEM 5* CL 5/10-VIO   0000000,260000000,30CH11    CG              00003000
+43108211                                                                      SP-CHEM 5* CL 5/10-ORG   0000000,260000000,30CH11    CG              00000000
+43108901                                                                      SP-CHEM 5* CL 5/10-ASS   0000000,260000000,30CH11    CG              00006000
+43111031                                                                      SP-L10 CHEM 5*CL5/10-BLE 0000002,780000003,30CH11    CG              00000000
+43111071                                                                      SP-L10 CHEM 5*CL5/10-VRT 0000002,780000003,30CH11    CG              00000050
+43111091                                                                      SP-L10 CHEM 5*CL5/10-RGE 0000002,780000003,30CH11    CG              00000150
+43111131                                                                      SP-L10 CHEM 5*CL5/10-JAU 0000002,780000003,30CH11    CG              00000000
+43111211                                                                      SP-L10 CHEM 5*CL5/10-ORG 0000002,780000003,30CH11    CG              00000040
+43111901                                                                      SP-L10 CHEM 5*CL5/10-ASS 0000002,780000002,98CH11    CG              00000600
+43149011                                                                      C SANGLE CLIP'N GO-NOI   0000000,540000001,60CLIPNGO CG              00000000
+43149031                                                                      C SANGLE CLIP'N GO-BLE   0000000,540000001,60CLIPNGO CG              00000330
+43149051                                                                      C SANGLE CLIP'N GO-BDX   0000000,540000001,60CLIPNGO CG              00000100
+43149071                                                                      C SANGLE CLIP'N GO-VRT   0000000,550000001,60CLIPNGO CG              00000000
+43149211                                                                      C SANGLE CLIP'N GO-ORG   0000000,540000001,60CLIPNGO CG              00000310
+43149931                                                                      C SANGLE CLIP'N GO-ASS   0000000,550000001,58CLIPNGO CG              00001050
+43155901                                                                      L5 CHEM EUROF MEMO-ASS   0000001,850000003,18CH4     CG              00000000
+43188031                                                                      SP-L5 CHEM PCIEL CL-BLE  0000001,490000002,85CH10_S  CG              00000200
+43188071                                                                      SP-L5 CHEM PCIEL CL-VRT  0000001,490000002,85CH10_S  CG              00000000
+43188091                                                                      SP-L5 CHEM PCIEL CL-RGE  0000001,490000002,85CH10_S  CG              00000000
+43188131                                                                      SP-L5 CHEM PCIEL CL-JAU  0000001,490000002,85CH10_S  CG              00000000
+43189901                                                                      L10 CHEM EUROF 5/10-ASS  0000003,260000006,63CH4     CG              00001650
+43189951                                                                      L10 CHEM EUROF 5/10-ASS  0000003,650000006,62CH4     CG              00000000
+43191-16                                                                      CHEM EUROFOLIO 5/10-VIO  0000000,300000000,47CH4     CG              00000450
+4319101-16                                                                    CHEM EUROFOLIO 5/10-VIO  0000000,320000000,45CH4     CG              00000000
+43191011                                                                      CHEM EUROFOLIO 5/10-NOI  0000000,300000000,47CH4     CG              00001400
+4319101101                                                                    CHEM EUROFOLIO 5/10-NOI  0000000,320000000,45CH4     CG              00000000
+43191031                                                                      CHEM EUROFOLIO 5/10-BGI  0000000,300000000,47CH4     CG              00002500
+43191051                                                                      CHEM EUROFOLIO 5/10-PRU  0000000,310000000,47CH4     CG              00000000
+43191071                                                                      CHEM EUROFOLIO 5/10-VCA  0000000,300000000,47CH4     CG              00003300
+4319107101                                                                    CHEM EUROFOLIO 5/10-VCA  0000000,320000000,45CH4     CG              00000000
+43191091                                                                      CHEM EUROFOLIO 5/10-RRU  0000000,300000000,47CH4     CG              00003750
+4319109101                                                                    CHEM EUROFOLIO 5/10-RRU  0000000,320000000,45CH4     CG              00000000
+43191131                                                                      CHEM EUROFOLIO 5/10-JCU  0000000,300000000,47CH4     CG              00002150
+4319113101                                                                    CHEM EUROFOLIO 5/10-JCU  0000000,320000000,45CH4     CG              00000000
+43191141                                                                      CHEM EUROFOLIO 5/10-GCL  0000000,300000000,47CH4     CG              00000250
+43191211                                                                      CHEM EUROFOLIO 5/10-OSA  0000000,300000000,47CH4     CG              00001250
+4319121101                                                                    CHEM EUROFOLIO 5/10-OSA  0000000,320000000,45CH4     CG              00000000
+43191301                                                                      CHEM EUROFOLIO 5/10-BNU  0000000,300000000,47CH4     CG              00001600
+4319130101                                                                    CHEM EUROFOLIO 5/10-BNU  0000000,320000000,45CH4     CG              00000000
+43191901                                                                      CHEM EUROFOLIO 5/10-ASS  0000000,300000000,90CH11    CG              00016650
+4319190101                                                                    CHEM EUROFOLIO 5/10-ASS  0000000,320000000,45CH11    CG              00000000
+43191902                                                                      CHEM EUROFOLIO 5/10-ASS  0000000,310000000,87CH11    CG              00001125
+43191951                                                                      CHEM EUROFOLIO 5/10-ASS  0000000,300000000,47CH11    CG              00000000
+4319195101                                                                    CHEM EUROFOLIO 5/10-ASS  0000000,320000000,45CH11    CG              00000000
+43192-20                                                                      L4+1 CHEM EUROF 5/10-ASS 0000001,750000000,10CH4     CG              00000000
+43197011                                                                      BI-CHEM CG 5/10 450G-NOI 0000000,300000000,35CH4     CG              00000000
+43197071                                                                      BI-CHEM CG 5/10 450G-VRT 0000000,300000000,35CH4     CG              00000000
+43197091                                                                      BI-CHEM CG 5/10 450G-RGE 0000000,310000000,35CH4     CG              00000000
+43197121                                                                      BI-CHEM CG 5/10 450G-BCL 0000000,300000000,35CH4     CG              00000000
+43197391                                                                      BI-CHEM CG 5/10 450G-JMO 0000000,300000000,35CH4     CG              00000000
+43198-16                                                                      L10 CHEM EUROF 5/10-VIO  0000003,250000004,95CH4_S   CG              00000050
+4319801-16                                                                    L10 CHEM EUROF 5/10-VIO  0000003,270000004,74CH4_S   CG              00000000
+43198011                                                                      L10 CHEM EUROF 5/10-NOI  0000003,250000004,95CH4_S   CG              00000200
+4319801101                                                                    L10 CHEM EUROF 5/10-NOI  0000003,270000004,74CH4_S   CG              00000000
+43198031                                                                      L10 CHEM EUROF 5/10-BGI  0000003,250000004,95CH4_S   CG              00000400
+4319803101                                                                    L10 CHEM EUROF 5/10-BGI  0000003,270000004,74CH4_S   CG              00000000
+43198071                                                                      L10 CHEM EUROF 5/10-VCA  0000003,250000004,95CH4_S   CG              00000150
+43198091                                                                      L10 CHEM EUROF 5/10-RRU  0000003,270000004,95CH4_S   CG              00000250
+4319809101                                                                    L10 CHEM EUROF 5/10-RRU  0000003,290000004,74CH4_S   CG              00000000
+43198131                                                                      L10 CHEM EUROF 5/10-JCU  0000003,250000004,95CH4_S   CG              00000050
+4319813101                                                                    L10 CHEM EUROF 5/10-JCU  0000003,270000004,74CH4_S   CG              00000000
+43198141                                                                      L10 CHEM EUROF 5/10-GCL  0000003,250000004,95CH4_S   CG              00000100
+4319814101                                                                    L10 CHEM EUROF 5/10-GCL  0000003,270000004,74CH4_S   CG              00000000
+43198211                                                                      L10 CHEM EUROF 5/10-OSA  0000003,250000004,95CH4_S   CG              00000180
+4319821101                                                                    L10 CHEM EUROF 5/10-OSA  0000003,270000004,74CH4_S   CG              00000000
+43198301                                                                      L10 CHEM EUROF 5/10-BNU  0000003,250000004,95CH4_S   CG              00000100
+4319830101                                                                    L10 CHEM EUROF 5/10-BNU  0000003,270000004,74CH4_S   CG              00000000
+43198491                                                                      L10 CHEM EUROF 5/10-RPO  0000003,260000004,95CH4_S   CG              00000000
+43198901                                                                      L10 CHEM EUROF 5/10-ASS  0000003,250000004,95CH4_S   CG              00000000
+4319890101                                                                    L10 CHEM EUROF 5/10-ASS  0000003,270000004,74CH4_S   CG              00000000
+43199031                                                                      BI-CHEM CG 5/10 450G-BLE 0000000,280000000,33CH4     CG              00000000
+43199071                                                                      BI-CHEM CG 5/10 450G-VRT 0000000,280000000,33CH4     CG              00000000
+43199091                                                                      BI-CHEM CG 5/10 450G-RGE 0000000,290000000,33CH4     CG              00000000
+43199131                                                                      BI-CHEM CG 5/10 450G-JAU 0000000,280000000,33CH4     CG              00000000
+4320001-20                                                                    CHEM CTD'OR CL 5/10-ASS  0000000,000000000,10                        00000000
+4320021-20                                                                    L2+1 CHEM CTD'OR CL 5/10 0000000,000000000,10                        00000000
+43200901                                                                      CHEM CTD'OR CL 5/10-ASS  0000000,490000001,95CH11    CG              00001275
+43204031                                                                      CHEM EUROFOLIO 5/10-BGI  0000000,300000000,35CH4     CG              00000000
+43204071                                                                      CHEM EUROFOLIO 5/10-VCA  0000000,300000000,35CH4     CG              00000000
+43204091                                                                      CHEM EUROFOLIO 5/10-RRU  0000000,300000000,35CH4     CG              00000000
+43204131                                                                      CHEM EUROFOLIO 5/10-JCU  0000000,300000000,35CH4     CG              00000000
+43210901                                                                      CHEM PP OPAQUE 4/10-ASS  0000000,330000000,41CH7     CG              00000000
+43220901                                                                      CHEM PP TRANSP 5/10-ASS  0000000,350000000,74CH7     CG              00000000
+43221901                                                                      CHEM PP 5/10-ASS         0000000,340000001,40CH7     CG              00003850
+43222081                                                                      L10 CHEM PP TRS 5/10-INC 0000003,720000009,85CH7     CG              00000000
+43222901                                                                      L10 CHEM PP TRS 5/10-ASS 0000003,720000007,40CH7     CG              00000265
+43225901                                                                      L3 CHEM PP TRSP 4/10-ASS 0000001,230000001,89CH7_S   CG              00000000
+43225903                                                                      L3 CHEM PP TRSP 4/10-ASS 0000001,230000001,34CH7_S   CG              00000000
+43232011                                                                      IIICHEM HETZEL PP-NOI    0000000,340000000,41CH7     CG              00000000
+43232061                                                                      IIICHEM HETZEL PP-BLC    0000000,340000000,41CH7     CG              00000000
+43291013                                                                      CHEM PP OPAQUE 5/10-NOI  0000000,340000000,61CH7     CG              00000625
+43291033                                                                      CHEM PP OPAQUE 5/10-BLE  0000000,340000000,61CH7     CG              00000500
+43291063                                                                      CHEM PP OPAQUE 5/10-BLC  0000000,340000000,61CH7     CG              00000475
+43291073                                                                      CHEM PP OPAQUE 5/10-VRT  0000000,340000000,61CH7     CG              00000900
+43291093                                                                      CHEM PP OPAQUE 5/10-RGE  0000000,340000000,61CH7     CG              00001025
+43291123                                                                      CHEM PP OPAQUE 5/10-TUR  0000000,350000000,61CH7     CG              00000000
+43291143                                                                      CHEM PP OPAQUE 5/10-GRI  0000000,340000000,61CH7     CG              00000475
+43291163                                                                      CHEM PP OPAQUE 5/10-VIO  0000000,340000000,61CH7     CG              00000175
+43291183                                                                      CHEM PP OPAQUE 5/10-ROS  0000000,340000000,61CH7     CG              00001275
+43291193                                                                      CHEM PP OPAQUE 5/10-JNE  0000000,350000000,61CH7     CG              00000175
+43291213                                                                      CHEM PP OPAQUE 5/10-PEC  0000000,350000000,61CH7     CG              00000825
+43291363                                                                      CHEM PP OPAQUE 5/10-VCA  0000000,340000000,61CH7     CG              00000400
+43291901                                                                      CHEM PP OPAQUE 5/10-ASS  0000000,340000000,61CH7     CG              00000000
+43292901                                                                      L10CHEM PP OPAQ 5/10-ASS 0000003,590000008,07CH7_S   CG              00000000
+43298901                                                                      L10CHEM PP OPAQ 5/10-ASS 0000003,620000006,07CH7_S   CG              00000000
+43299241                                                                      CHEM METAL PP 5/10-BLE   0000000,400000000,85CH7     CG              00000000
+43299901                                                                      CHEM METAL PP 5/10-ASS   0000000,400000000,85CH7     CG              00000000
+43301902                                                                      CHEM PROFILE METAL-ASS   0000000,510000001,50AVS     RC              00000000
+43308901                                                                      CHEM PROFILE OPALINE-ASS 0000000,410000001,68AVS     RC              00000100
+43401011                                                                      BI-CHEM CL 5/10-NOI      0000000,230000000,29CH10    CG              00000000
+43401031                                                                      BI-CHEM CL 5/10-BLE      0000000,230000000,29CH10    CG              00000000
+43401071                                                                      BI-CHEM CL 5/10-VRT      0000000,230000000,29CH10    CG              00000000
+43401091                                                                      BI-CHEM CL 5/10-RGE      0000000,230000000,29CH10    CG              00000000
+43401131                                                                      BI-CHEM CL 5/10-JAU      0000000,230000000,29CH10    CG              00000000
+43401141                                                                      BI-CHEM CL 5/10-GRI      0000000,230000000,29CH10    CG              00000000
+43401211                                                                      BI-CHEM CL 5/10-ORG      0000000,230000000,29CH10    CG              00000000
+43791-06                                                                      CHEM EUROFOLIO 7/10      0000000,440000001,09CH13    CG              00000230
+43791-21                                                                      CHEM EUROFOLIO 7/10      0000000,440000001,09CH13    CG              00000000
+43791-30                                                                      CHEM EUROFOLIO 7/10      0000000,440000001,09CH13    CG              00000000
+437910-20                                                                     L8+2 CHEM EUROF 7/10     0000004,620000013,25CH13_S  CG              00000000
+4379101-06                                                                    CHEM EUROFOLIO 7/10      0000000,460000001,04CH13    CG              00000000
+4379101-30                                                                    CHEM EUROFOLIO 7/10      0000000,460000001,04CH13    CG              00000000
+43791011                                                                      CHEM EUROFOLIO 7/10-NOI  0000000,440000001,09CH13    CG              00001660
+4379101101                                                                    CHEM EUROFOLIO 7/10-NOI  0000000,460000001,04CH13    CG              00000000
+43791031                                                                      CHEM EUROFOLIO 7/10-BGI  0000000,440000001,09CH13    CG              00003640
+43791071                                                                      CHEM EUROFOLIO 7/10-VCA  0000000,440000001,09CH13    CG              00002970
+4379107101                                                                    CHEM EUROFOLIO 7/10-VCA  0000000,460000001,04CH13    CG              00000000
+43791091                                                                      CHEM EUROFOLIO 7/10-RRU  0000000,440000001,09CH13    CG              00002000
+43791131                                                                      CHEM EUROFOLIO 7/10-JCU  0000000,440000001,09CH13    CG              00002110
+43791161                                                                      CHEM EUROFOLIO 7/10-VIO  0000000,440000001,09CH13    CG              00000220
+4379116101                                                                    CHEM EUROFOLIO 7/10-VIO  0000000,460000001,04CH13    CG              00000000
+43791901                                                                      CHEM EUROFOLIO 7/10-ASS  0000000,430000001,09CH13    CG              00000375
+4379190101                                                                    CHEM EUROFOLIO 7/10-ASS  0000000,450000001,04CH13    CG              00000000
+43792901                                                                      L25 CHEM EUROF 7/10-ASS  0000010,780000038,45CH13    CG              00000056
+43793931                                                                      CHEM EUROFOLIO 7/10-ASS  0000000,440000001,51CH13    CG              00000000
+43796901                                                                      L5 CHEM EUROF 7/10-ASS   0000002,390000011,14CH13_S  CG              00000000
+43803031                                                                      DU-CHEM CL 5/10-BLE      0000000,230000000,29CH10    CG              00000000
+43803071                                                                      DU-CHEM CL 5/10-VRT      0000000,230000000,29CH10    CG              00000000
+43803091                                                                      DU-CHEM CL 5/10-RGE      0000000,230000000,29CH10    CG              00000000
+43803131                                                                      DU-CHEM CL 5/10-JAU      0000000,230000000,29CH10    CG              00000000
+43803901                                                                      DU-CHEM CL 5/10-ASS      0000000,220000000,48CH10    CG              00000000
+43860501                                                                      CHEM PR GALLES MORGAN    0000000,260000002,09CH11    CG              00000000
+44001901                                                                      CHEM DUO OPALINE PP-ASS  0000000,480000001,61PRISON  CG              00000180
+458067-09                                                                     LY-L5 CHEM IMP CL        0000001,730000010,17CH11    CG      LYRECO  00000000
+458808-03                                                                     LY-L10 C SPLE SS ELA     0000002,360000006,92SS TTANTCG      LYRECO  00000000
+458819-08                                                                     LY-L10 C SPLE SS ELA     0000002,360000006,92SS TTANTCG      LYRECO  00000000
+458821-13                                                                     LY-L10 C SPLE SS ELA     0000002,360000006,92SS TTANTCG      LYRECO  00000045
+458832-14                                                                     LY-L10 C SPLE SS ELA     0000002,360000006,92SS TTANTCG      LYRECO  00000045
+480026-03                                                                     CHEM HAWAI PP 5/10       0000000,410000001,41CH13    CG              00000020
+480026-06                                                                     CHEM HAWAI PP 5/10       0000000,410000001,41CH13    CG              00000000
+480026-16                                                                     CHEM HAWAI PP 5/10       0000000,410000001,41CH13    CG              00000000
+480026-17                                                                     CHEM HAWAI PP 5/10       0000000,410000001,41CH13    CG              00000320
+480026-20                                                                     CHEM HAWAI PP 5/10       0000000,410000001,41CH13    CG              00000680
+480026-22                                                                     CHEM HAWAI PP 5/10       0000000,410000001,41CH13    CG              00000000
+480029-01                                                                     CHEM MEMPHIS PP 5/10     0000000,340000000,66CH7     CG              00000000
+480029-02                                                                     CHEM MEMPHIS PP 5/10     0000000,340000000,66CH7     CG              00000000
+480029-03                                                                     CHEM MEMPHIS PP 5/10     0000000,340000000,66CH7     CG              00000220
+480029-09                                                                     CHEM MEMPHIS PP 5/10     0000000,340000000,66CH7     CG              00000680
+480029-11                                                                     CHEM MEMPHIS PP 5/10     0000000,340000000,66CH7     CG              00000000
+480029-12                                                                     CHEM MEMPHIS PP 5/10     0000000,340000000,66CH7     CG              00000740
+480029-13                                                                     CHEM MEMPHIS PP 5/10     0000000,340000000,66CH7     CG              00000620
+480029-14                                                                     CHEM MEMPHIS PP 5/10     0000000,340000000,66CH7     CG              00002020
+480029-15                                                                     CHEM MEMPHIS PP 5/10     0000000,340000000,66CH7     CG              00000260
+480029-16                                                                     CHEM MEMPHIS PP 5/10     0000000,340000000,66CH7     CG              00000500
+480029-20                                                                     CHEM MEMPHIS PP 5/10     0000000,340000000,66CH7     CG              00000480
+480029-21                                                                     CHEM MEMPHIS PP 5/10     0000000,340000000,66CH7     CG              00000420
+480029-23                                                                     CHEM MEMPHIS PP 5/10     0000000,340000000,66CH7     CG              00000340
+48002910-20                                                                   L10-CHEM MEMPHIS PP-ASS  0000003,550000006,62CH7     CG              00000705
+480044-03                                                                     CHEM JUMP PP 5/10        0000000,400000000,80CH13    CG              00000220
+480044-06                                                                     CHEM JUMP PP 5/10        0000000,400000000,80CH13    CG              00000020
+480044-13                                                                     CHEM JUMP PP 5/10        0000000,400000000,80CH13    CG              00000320
+480044-14                                                                     CHEM JUMP PP 5/10        0000000,400000000,80CH13    CG              00000060
+480044-20                                                                     CHEM JUMP PP 5/10        0000000,400000000,80CH13    CG              00000500
+482012-03                                                                     CHEM PP OPAQUE 4/10      0000000,270000000,42CH7     CG              00000500
+482012-09                                                                     CHEM PP OPAQUE 4/10      0000000,270000000,42CH7     CG              00000000
+482012-13                                                                     CHEM PP OPAQUE 4/10      0000000,270000000,42CH7     CG              00000250
+482012-14                                                                     CHEM PP OPAQUE 4/10      0000000,270000000,42CH7     CG              00000300
+482012-20                                                                     CHEM PP OPAQUE 4/10      0000000,270000000,42CH7     CG              00000000
+48201201-03                                                                   CHEM PP OPAQUE 4/10      0000000,270000001,66CH7     CG              00000000
+482225-17                                                                     AU-TRIEUR 8C PP OPAQ     0000001,110000000,10TRIEURS CG      AUCHAN  00000000
+53000-03                                                                      CL A4 D20 2A EUROF       0000000,530000000,70RM17    RC              00000000
+53000-07                                                                      CL A4 D20 2A EUROF       0000000,530000000,70RM17    RC              00000000
+53000-09                                                                      CL A4 D20 2A EUROF       0000000,530000000,70RM17    RC              00000000
+53000-13                                                                      CL A4 D20 2A EUROF       0000000,530000000,70RM17    RC              00000000
+53000-20                                                                      CL A4 D20 2A EUROF       0000000,530000000,70RM17    RC              00000060
+5300001-20                                                                    CL A4 D20 2A EUROF       0000000,490000000,67RM17    RC              00000000
+53001031                                                                      CL A4 D35 2A EUROF-BGI   0000000,520000000,76RM18    RC              00002970
+5300103101                                                                    CLA A4 C LUSTREE  D35 2  0000000,540000000,73RM18    RC              00000000
+53001071                                                                      CL A4 D35 2A EUROF-VCA   0000000,520000000,76RM18    RC              00000410
+5300107101                                                                    CL A4 D35 2A EUROF-VCA   0000000,540000000,73RM18    RC              00000000
+53001091                                                                      CL A4 D35 2A EUROF-RRU   0000000,520000000,76RM18    RC              00000360
+5300109101                                                                    CL A4 D35 2A EUROF-RRU   0000000,540000000,73RM18    RC              00000000
+53001131                                                                      CL A4 D35 2A EUROF-JCU   0000000,520000000,76RM18    RC              00000110
+53001901                                                                      CL A4 D35 2A EUROF-ASS   0000000,580000000,76RM18    RC              00000020
+5300190101                                                                    CL A4 D35 2A EUROF-ASS   0000000,540000000,73RM18    RC              00000000
+53003031                                                                      CL A4 D50 2A EUROF-BLG   0000000,590000001,02RM18    RC              00000112
+5300303101                                                                    CL A4 D50 2A EUROF-BLG   0000000,600000000,97RM18    RC              00000000
+53003071                                                                      CL A4 D50 2A EUROF-VCA   0000000,590000001,02RM18    RC              00000112
+5300307101                                                                    CL A4 D50 2A EUROF-VCA   0000000,600000000,97RM18    RC              00000000
+53003091                                                                      CL A4 D50 2A EUROF-RRU   0000000,590000001,02RM18    RC              00000350
+5300309101                                                                    CL A4 D50 2A EUROF-RRU   0000000,600000000,97RM18    RC              00000000
+53003131                                                                      CL A4 D50 2A EUROF-JCU   0000000,590000001,02RM18    RC              00000000
+5300313101                                                                    CL A4 D50 2A EUROF-JCU   0000000,600000000,97RM18    RC              00000000
+53003901                                                                      CLA A4 D50 2ANX EUROF    0000000,590000001,08RM18    RC              00000014
+53013131-08                                                                   CL A4 D50 2A EUROF-JCU   0000000,000000003,24RM18    RC              00000000
+530663-20                                                                     AU-CL LEV ERG D90 OPA-AS 0000001,950000000,10MMT     RC      AUCHAN  00000000
+53100-20                                                                      CL A4 D20 4A EUROF       0000000,690000001,30RM18    RC              00000000
+54862501                                                                      SU-CL A4 D40 4A SURF     0000000,890000001,58RDC19   RC      SYSTEM  00000000
+54863501                                                                      SU-CL A4 D40 4A MUSIQUE  0000000,890000001,69RDC19   RC      SYSTEM  00000000
+54951501                                                                      CL A4 D25 4A CD'OR-ASS   0000000,880000002,52RM18    RC              00000060
+54951502-20                                                                   CLA A4 D25 4A CTD'OR     0000000,840000001,77RM18    RC              00000000
+54952503                                                                      CL A4+ D20 4A CD'OR-ASS  0000000,900000002,09RM18    RC              00000024
+54972501                                                                      SU-CL A4 D40 4A FLOWERS  0000000,890000001,48RDC19   RC      SYSTEM  00000000
+580348-03                                                                     SP-CHEM  5* PP OPA       0000000,280000001,66CH7     CG      SPICER  00000000
+580356-13                                                                     SP-CHEM  5* PP OPA       0000000,280000001,66CH7     CG      SPICER  00000640
+580364-14                                                                     SP-CHEM  5* PP OPA       0000000,280000001,66CH7     CG      SPICER  00000000
+580372-09                                                                     SP-CHEM  5* PP OPA       0000000,280000001,66CH7     CG      SPICER  00000000
+580380-20                                                                     SP-CHEM  5* PP OPA       0000000,290000001,66CH7     CG      SPICER  00000000
+58306-20                                                                      TRIEUR NUM 6C PP CTE-ASS 0000002,380000004,52TRIEURS CG              00000000
+58306031                                                                      TRIEUR NUM 6C PP CTE-BLE 0000002,390000006,56TRIEURS CG              00000045
+58307011                                                                      TRIEUR 7C CTE LUSTRE-NOI 0000000,930000002,18TRIEURS CG              00000000
+58307901                                                                      TRIEUR 7C CTE LUSTRE-ASS 0000000,930000003,55TRIEURS CG              00000150
+58309-20                                                                      L2 TRIEURS CL 7CASES-ASS 0000002,090000005,55TRIEURS CG              00000000
+58311-20                                                                      TRIEUR NUM12C PP CTE-ASS 0000003,150000005,88TRIEURS CG              00000000
+58311031                                                                      TRIEUR NUM12C PP CTE-BLE 0000003,150000008,88TRIEURS CG              00000036
+58312011                                                                      TRIEUR12C CTE LUSTRE-NOI 0000001,150000003,03TRIEURS CG              00000012
+58312901                                                                      TRIEUR12C CTE LUSTRE-ASS 0000001,150000004,83TRIEURS CG              00002088
+58509011                                                                      TRIEUR  8C PP OPAQUE-NOI 0000001,190000003,34TRIEURS CG              00000120
+58509941                                                                      TRIEUR  8C PP OPAQUE-ASS 0000001,110000004,04TRIEURS CG              00001872
+58509942                                                                      TRIEUR  8C PP OPAQUE-ASS 0000001,190000003,64TRIEURS CG              00000000
+58512011                                                                      TRIEUR 12C PP OPAQUE-NOI 0000001,460000003,88TRIEURS CG              00000156
+58512941                                                                      TRIEUR 12C PP OPAQUE-ASS 0000001,460000004,68TRIEURS CG              00000876
+58520031                                                                      TRIEUR 8C PP OPALINE-BLE 0000001,300000002,40TRIEURS CG              00000000
+58520941                                                                      TRIEUR 8C OPALINE-ASS    0000001,730000004,15TRIEURS CG              00000000
+5852101-20                                                                    TRIEUR 12C OPALINE-ASS   0000000,000000000,10                        00000000
+58521941                                                                      TRIEUR 12C OPALINE-ASS   0000002,110000004,83TRIEURS CG              00000084
+60101905                                                                      CL17X22 D352A CTD'OR-ASS 0000000,940000002,13RM18    RC              00000528
+60101906                                                                      CL17X22 D352A CTD'OR-ASS 0000000,950000001,53RM18    RC              00000060
+60151901                                                                      CL A6 D35 2A CD'OR-ASS   0000000,900000001,90RM18    RC              00000450
+60201901                                                                      CL A5 D35 2A CD'OR-ASS   0000000,930000002,00RM18    RC              00002140
+60630901                                                                      YEKA 17X22 PP OPA-ASS    0000000,770000001,18RM17    RC              00000300
+62100907                                                                      CL A4 D40 2A CD'OR-ASS   0000000,770000001,80RM19    RC              00000000
+62101-03                                                                      CL A4 D40 4A CD'OR       0000000,810000001,85RM19    RC              00000056
+62101-06                                                                      CL A4 D40 4A CD'OR       0000000,810000001,85RM19    RC              00000000
+62101-08                                                                      CL A4 D40 4A CD'OR       0000000,810000001,85RM19    RC              00000000
+62101-09                                                                      CL A4 D40 4A CD'OR       0000000,810000001,85RM19    RC              00000000
+62101-13                                                                      CL A4 D40 4A CD'OR       0000000,810000001,85RM19    RC              00000000
+62101-14                                                                      CL A4 D40 4A CD'OR       0000000,810000001,85RM19    RC              00000000
+62101901-20                                                                   CL A4 D40 4A CD'OR-ASS   0000000,000000000,10                        00000000
+62101902                                                                      CL A4 D40 4A CD'OR-ASS   0000000,830000002,16RM19    RC              00000000
+62101905                                                                      CL A4 D40 4A CD'OR-ASS   0000000,830000002,54RM19    RC              00001800
+62101907                                                                      CL A4 D40 4A CD'OR-ASS   0000000,840000001,85RM19    RC              00000112
+62102901                                                                      CL24X32 D40 4A CD'OR-ASS 0000001,060000003,80RM18    RC              00000020
+62102905                                                                      CL24X32 D40 4A CD'OR-ASS 0000001,110000003,80RM18    RC              00000144
+62109901                                                                      CLA ERG A4+D45 CD'OR-ASS 0000001,160000003,80RM18    RC              00000018
+62629901                                                                      YEKA D20 4A PP OPA-ASS   0000000,520000001,45RM17    RC              00001410
+62629904                                                                      YEKA D20 4A PP OPA-ASS   0000000,520000001,18RM17    RC              00000000
+62635901                                                                      YEKA D20 4A METAL-ASS    0000000,570000000,73RM17    RC              00000000
+6264701-20                                                                    SU-CL A4 D40 4A BAL      0000001,430000001,54RM18    RC      SYSTEM  00000000
+62647901                                                                      CL A4 D40 4A BALACR-ASS  0000001,440000001,44RM18    RC              00000000
+62648901                                                                      CO-CL A4 D40 4A CORA-ASS 0000001,090000000,99RM19    RC              00000384
+62649903                                                                      YEKA A4+ D20 4A PP-ASS   0000000,580000002,05RM17    RC              00000000
+62654901                                                                      CO-CL A4+D40 4A CORA-ASS 0000001,100000001,28RM19    RC              00000280
+62655901                                                                      CL A4+ D35 4A METAL-ASS  0000000,830000002,00RM19    RC              00000000
+62657901                                                                      CL A4+ D354A PP12/10-ASS 0000000,770000002,75RM19    RC              00000252
+62657904                                                                      CL A4+ D354A PP12/10-ASS 0000000,720000002,20RM19    RC              00000000
+62659903                                                                      CLA A4+ D35 4A PP-ASS    0000000,660000002,23RM17    RC              00001224
+62677901                                                                      CLERG A4+ D604A OPAL-ASS 0000001,030000002,75RM17    RC              00000108
+62679011                                                                      CL ERG A4+ D35 4A -NOI   0000000,960000002,67RM17    RC              00000054
+62679031                                                                      OL ERG A4+ D45 4A -BLE   0000000,960000002,67RM17    RC              00000000
+62679901                                                                      CL ERG A4+ D45 4A -ASS   0000000,990000002,67RM17    RC              00000000
+62681031                                                                      CLERG A4+ D604A OPAL-BLE 0000000,980000002,67RM17    RC              00000000
+62681071                                                                      CLERG A4+ D604A OPAL-VRT 0000000,980000002,67RM17    RC              00000018
+62681091                                                                      CLERG A4+ D604A OPAL-RGE 0000000,980000002,67RM17    RC              00000000
+62681901                                                                      CLERG A4+ D604A OPAL-ASS 0000001,010000002,67RM17    RC              00000018
+62683901                                                                      CLLEV ERGA4+D90 OPAL-ASS 0000001,950000004,10MMT     RC              00000130
+62683902                                                                      CLLEV ERGA4+D90 OPAL-ASS 0000002,020000003,85MMT     RC              00000000
+62735901                                                                      L10YEKA A4 D20 METAL-ASS 0000005,210000007,28RM17    RC      MAJUSC  00000000
+62736901                                                                      SU-L2 YEKA BVU PPTRS-ASS 0000001,160000001,01RM17    RC      SYSTEM  00000000
+62736902                                                                      SU-L2 YEKA BVU PPTRS-ASS 0000001,170000001,01RM17    RC      SYSTEM  00000000
+63036-03                                                                      MD-CHEM MBUSINESS CL     0000000,220000001,16CH12    CG      MAJUSC  00000000
+63037-09                                                                      MD-CHEM MBUSINESS CL     0000000,220000001,16CH12    CG      MAJUSC  00000000
+63038-13                                                                      MD-CHEM MBUSINESS CL     0000000,220000001,16CH12    CG      MAJUSC  00005000
+63039-14                                                                      MD-CHEM MBUSINESS CL     0000000,220000001,16CH12    CG      MAJUSC  00007500
+63040-07                                                                      MD-CHEM MBUSINESS CL     0000000,220000001,16CH12    CG      MAJUSC  00000000
+63042-11                                                                      MD-CHEM MBUSINESS CL     0000000,220000001,16CH12    CG      MAJUSC  00005000
+63043-02                                                                      MD-CHEM MBUSINESS CL     0000000,220000001,16CH12    CG      MAJUSC  00002500
+63044-08                                                                      MD-CHEM MBUSINESS CL     0000000,220000001,16CH12    CG      MAJUSC  00007500
+63046-15                                                                      MD-CHEM MBUSINESS CL     0000000,220000001,16CH12    CG      MAJUSC  00002500
+63047-21                                                                      MD-CHEM MBUSINESS CL     0000000,220000001,07CH11    CG      MAJUSC  00000000
+69910-20                                                                      MD-L10 CHEM MBUSINESS CL 0000002,370000011,58CH12    CG      MAJUSC  00000000
+70456-04                                                                      MD-CHEM MBUSINESS CL     0000000,220000001,16CH12    CG      MAJUSC  00000000
+70457-06                                                                      MD-CHEM MBUSINESS CL     0000000,250000001,16CH12    CG      MAJUSC  00000000
+70501901                                                                      PBLOC CD'OR CTE-ASS      0000002,240000003,30MMT     RC              00000070
+709751-20                                                                     CHEM EVOL STA HERITAGE   0000000,460000001,97PERONI  CG              00000000
+709754-20                                                                     CHEM EVOL CHI AUTHENTIC  0000000,460000001,91PERONI  CG              00000000
+709777-20                                                                     CHEM EVOL MOR CITY CHIC  0000000,460000001,97PERONI  CG              00000000
+709795-20                                                                     CHEM EVOL HPO DARK       0000000,460000001,91PERONI  CG              00000000
+7100178-17                                                                    ST-CHEM QUILL PP TRS     0000000,320000001,91CH7     CG      J.P.G.  00000000
+7100208-20                                                                    ST-CHEM QUILL PP TRS     0000000,320000001,91CH7     CG      J.P.G.  00000000
+7500206-20                                                                    ST-CHEM QUILL PP OPA     0000000,280000001,66CH7     CG      J.P.G.  00000000
+7500213-20                                                                    ST-CHEM QUILL PP OPA     0000000,320000001,91CH7     CG      J.P.G.  00000000
+759716-20                                                                     CHEM EVOL CHI FOLK LOLIT 0000000,510000001,97PERONI  CG              00000000
+759717-20                                                                     CHEM EVOL OXBOW SOUL     0000000,510000002,03PERONI  CG              00000000
+759718-20                                                                     CHEM EVOL OXB ILIMITADO  0000000,510000002,03PERONI  CG              00000000
+808679-20                                                                     CL A4 D40 4A BAYADERE    0000000,840000001,60RM19    RC              00000000
+809712-20                                                                     CHEM EVOL KID PUNCH      0000000,510000001,81PERONI  CG              00000000
+809725-20                                                                     CHEM EVOL AIR MALI       0000000,510000002,07PERONI  CG              00000000
+809728-20                                                                     CHEM EVOL AIR ULTRA      0000000,510000002,09PERONI  CG              00000000
+809733-20                                                                     CHEM EVOL CRO BOUSSOLE   0000000,540000001,81PERONI  CG              00000000
+809736-20                                                                     CHEM EVOL NBA PLAYGROUND 0000000,510000001,97PERONI  CG              00000000
+809737-20                                                                     CHEM EVOL NBA LOGOMAN    0000000,620000002,03PERONI  CG      SCA LO  00000000
+809744-20                                                                     CHEM EVOL BAR DOLL       0000000,510000002,03PERONI  CG              00000000
+809745-20                                                                     CHEM EVOL BAR SPIRIT     0000000,540000002,03PERONI  CG              00000000
+809747-20                                                                     CHEM EVOL BATMAN         0000000,510000001,81PERONI  CG              00000000
+809751-20                                                                     CHEM EVOL STA GRAPHICS   0000000,510000002,03PERONI  CG              00000000
+809753-20                                                                     CHEM EVOL STA GRAPHICS   0000000,510000002,03PERONI  CG              00000000
+809754-20                                                                     CHEM EVOL CHI ROMANCE    0000000,510000001,97PERONI  CG              00000000
+809778-20                                                                     CHEM EVOL ANIMO 08       0000000,510000001,10PERONI  CG              00000000
+809779-20                                                                     CHEM EVOL BAYADERE       0000000,510000000,96PERONI  CG              00000000
+809791-20                                                                     CHEM EVOL CIT BLACK&WHIT 0000000,510000001,81PERONI  CG              00000000
+809798-20                                                                     CHEM EVOL STADE MALHER   0000000,510000002,10PERONI  CG              00000000
+857745-20                                                                     CL A4 D40 4A CD'OR-ASS   0000000,840000000,10RM19    RC      AUCHAN  00000000
+859716-20                                                                     CHEM EVOL CHI F.DPT      0000000,510000002,05PERONI  CG              00000000
+859717-20                                                                     CHEM EVOL OXB ESCAPE     0000000,540000002,09PERONI  CG              00000000
+859718-20                                                                     CHEM EVOL OXB PAINTINGS  0000000,510000002,09PERONI  CG              00000000
+859728-20                                                                     CHEM EVOL AIR UNIKS      0000000,510000002,15PERONI  CG              00000000
+859795-20                                                                     CHEM EVOL HPO&PHENIX     0000000,540000001,97PERONI  CG              00000000
+904038-23                                                                     SP-CHEM  5* PP OPA       0000000,330000001,91CH7     CG      SPICER  00000000
+909724-20                                                                     CHEM EVOL AIR PRESTIGE   0000000,510000002,13PERONI  CG              00000000
+909734-20                                                                     CHEM EVOL CRO ORIGIN     0000000,510000001,86PERONI  CG              00000000
+909744-20                                                                     CHEM EVOL BARB TRENDY    0000000,510000002,09PERONI  CG              00000000
+909748-20                                                                     CHEM EVOL OUI-OUI TOYS   0000000,510000002,09PERONI  CG              00000000
+909751-20                                                                     CHEM EVOL STA STRIPES    0000000,510000002,09PERONI  CG              00000000
+909753-20                                                                     CHEM EVOL STA ACTIVE     0000000,510000002,09PERONI  CG              00000000
+909778-20                                                                     CHEM EVOL Z'ANIMO 09     0000000,510000000,98PERONI  CG              00000000
+909791-20                                                                     CHEM EVOL A LEDERMA JUMP 0000000,510000001,86PERONI  CG              00000000
+909795-20                                                                     CHEM EVOL HPOTTER&PSM    0000000,510000002,03PERONI  CG              00000000
+95030014P-20                                                                  LE-CL A4 D40 SUPERCUP 09 0000000,680000000,77RM19    RC      LECAS   00000000
+95050014P-20                                                                  LE-CL A4 D40 WWF THEM 09 0000000,730000000,10RM19    RC      LECAS   00000000
+95070014P-20                                                                  LE-CL A4 D40 AVENTURE 09 0000000,680000000,73RM19    RC      LECAS   00000000
+95090014P-20                                                                  LE-CL A4 D40 TSI POUPE09 0000000,350000000,81RM19    RC      LECAS   00000000
+95100012P-20                                                                  LE-CL17X22 D40 PT AMI 09 0000000,820000000,01RM18    RC      LECAS   00000000
+95110014P-20                                                                  LE-CL A4 D40 HUMOUR 2009 0000000,680000000,01RM19    RC      LECAS   00000000
+95130014P-20                                                                  LE-CL A4 D40 LOU 09      0000000,000000000,01                LECAS   00000000
+95140014P-20                                                                  LE-CL A4 D40 BEACH RI 09 0000000,680000000,01RM19    RC      LECAS   00000000
+95195012P-20                                                                  LE-CL 17X22 D40 TITEUF09 0000000,000000000,01                LECAS   00000000
+95210014P-20                                                                  LE-CL A4 D40 TITEUF K 09 0000000,680000000,73RM19    RC      LECAS   00000000
+95220014P-20                                                                  LE-CL A4 D40 L'ETUDIA 09 0000000,680000000,73RM19    RC      LECAS   00000000
+95320014P-20                                                                  LECAS-CLA A4 D40 TITEUF  0000000,680000000,73RM19    RC      LECAS   00000000
+95600014P-20                                                                  LE-CL A4 D40 ROADSIGN 09 0000000,680000000,01RM19    RC      LECAS   00000000
+959716-20                                                                     CHEM EVOL CHIP MANGA POP 0000000,510000002,40PERONI  CG              00000000
+959728-20                                                                     CHEM EVOL AIR ECLECTIK   0000000,510000002,53PERONI  CG              00000000
+959737-20                                                                     CHEM EVOL OXB STYLE      0000000,540000002,32PERONI  CG              00000000
+959738-20                                                                     CHEM EVOL OXBOW X-TREM   0000000,540000002,32PERONI  CG              00000000
+97110020P-20                                                                  LE-CHEM EVOL TITEUF KIDS 0000000,220000000,26PERONI  CB      LECAS   00000000
+97130020P-20                                                                  LE-CHEM EVOL WWF/OXFOR   0000000,270000000,10PERONI  CB      LECAS   00000000
+97340020P-20                                                                  LE-CHEM EVOL DECORS STD  0000000,220000000,27PERONI  CB      LECAS   00000000
+990042-20                                                                     COMPO NOMADE 105P        0000108,790000219,75TRIEURS CG              00000000
+995542-20                                                                     PRESENT 1/4PAL OPALINE08 0000187,370000469,24MMT     RC              00000000
+995545-20                                                                     PRESENT 1/4PAL EUROF 08  0000079,810000200,70MMT     RC              00000000
+995642-20                                                                     PRESENT 1/4PAL OPALINE08 0000147,780000000,10MMT     RC              00000000
+999091-20                                                                     PRESENT EUROFOLIO 260P   0000018,340000553,10PRISON  CG              00000000

@@ -1,0 +1,44 @@
+open 192.168.1.1
+user qpgmr halkar
+
+cd /QDLS/APPCEL
+
+lcd /var/www/html/webcell/up/
+get PR -o PRIORITES.DAT
+
+lcd /var/www/html/webcell/up/lam
+get LM_CE -o CUSTORDS.DAT
+get LM_PD -o DSJOUR.DAT
+get LM_SK -o ONHAND.DAT
+get LM_AC -o RECEIPTS.DAT
+get LM_LOC -o LOCK
+
+lcd /var/www/html/webcell/up/tre
+get TR_CE -o CUSTORDS.DAT
+get TR_PD -o DSJOUR.DAT
+get TR_SK -o ONHAND.DAT
+get TR_AC -o RECEIPTS.DAT
+get TR_LOC -o LOCK
+
+lcd /var/www/html/webcell/up/mlt
+get ML_CE -o CUSTORDS.DAT
+get ML_PD -o DSJOUR.DAT
+get ML_SK -o ONHAND.DAT
+get ML_AC -o RECEIPTS.DAT
+get ML_LOC -o LOCK
+
+lcd /var/www/html/webcell/up/neg
+get NG_CE -o CUSTORDS.DAT
+get NG_PD -o DSJOUR.DAT
+get NG_SK -o ONHAND.DAT
+get NG_AC -o RECEIPTS.DAT
+get NG_LOC -o LOCK
+
+rm LM_LOC
+rm TR_LOC
+rm ML_LOC
+rm NG_LOC
+
+close
+
+bye

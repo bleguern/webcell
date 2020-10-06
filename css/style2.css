@@ -1,0 +1,301 @@
+.main_body {
+	background-color: #FFFFFF;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+}
+
+input {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+}
+
+select {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+}
+
+img {
+	border:0px;
+}
+
+table {
+	border-width:0px;
+	padding:0px;
+	border-spacing:0px;
+	border-collapse:collapse;
+	margin:0px;
+}
+
+table.normal {
+	width:100%;
+}
+
+table.center {
+	text-align:center;
+}
+
+
+td.min_separator {
+	height:5px;
+}
+
+td.separator {
+	height:10px;
+}
+
+td.max_separator {
+	height:15px;
+}
+
+
+td.field_separator {
+	width:5px;
+}
+
+td.field_header {
+	text-align:right;
+}
+
+td.field_value {
+	text-align:left;
+}
+
+a {
+	text-decoration:none;
+}
+
+a:visited {
+	text-decoration:none;
+}
+
+
+
+
+/***************************************************************************
+
+
+								TITLE
+
+
+***************************************************************************/
+
+td.title {
+	font-weight: bold;
+	font-size: 16px;
+	color: #FFFFFF;
+	text-transform:uppercase;
+	text-align:center;
+	height: 24px;
+}
+
+
+/***************************************************************************
+
+
+								TABLE STYLE
+
+
+***************************************************************************/
+
+th.header {
+	height: 25px;
+	font-size:11px;
+	font-weight: bold;
+	text-align: center;
+	color: #FFFFFF;
+	padding: 0px;
+	border-bottom: 1px solid #0027A1;
+	border-left: 1px solid #FFFFFF;
+	border-right: 1px solid #FFFFFF;
+	text-decoration:none;
+	background-image:url(../image/menu/header.jpg);
+}
+
+th.header a {
+	color:#FFFFFF
+}
+
+th.header a:visited {
+	color:#FFFFFF
+}
+
+tr.row td {
+	color:#000000;
+	background-color:#FFFFFF;
+}
+
+tr.row td a {
+	color:#000000;
+}
+
+tr.row td a:visited {
+	color:#000000;
+}
+
+tr.alternate_row td {
+	color:#000000;
+	background-color:#E8E8E8;
+	border-left: 1px solid #FFFFFF;
+	border-right: 1px solid #FFFFFF;
+}
+
+tr.alternate_row td a {
+	color:#000000;
+}
+
+tr.alternate_row td a:visited {
+	color:#000000;
+}
+
+
+/***************************************************************************
+
+
+								MENU
+
+
+***************************************************************************/
+
+td.menu_section_text {
+	font-weight: bold;
+	color: #0027A1;
+	text-transform:uppercase;
+	text-align:center;
+}
+
+td.menu_section_text a {
+	color: #0027A1;
+	text-decoration:none;
+}
+
+td.menu_section_text a:visited {
+	color: #0027A1;
+	text-decoration:none;
+}
+
+td.menu_title_text {
+	font-weight: bold;
+	font-size: 11px;
+	color: #0027A1;
+	text-transform:uppercase;
+	text-align:center;
+}
+
+td.menu_title_text a {
+	color: #0027A1;
+	text-decoration:none;
+}
+
+td.menu_title_text a:visited {
+	color: #0027A1;
+	text-decoration:none;
+}
+
+td.menu_value {
+	color: #0027A1;
+	text-align:center;
+}
+
+
+td.menu_legend_header {
+	width:18px;
+	height:18px;
+}
+
+td.menu_legend_value {
+	color: #0027A1;
+	text-align:left;
+}
+
+td.menu {
+	text-align:center;
+}
+
+
+
+/***************************************************************************
+
+
+								PAGE HEAD
+
+
+***************************************************************************/
+
+
+td.main_title_text {
+	font-weight: bold;
+	font-size: 13px;
+	color: #0027A1;
+	text-transform:uppercase;
+	text-align:center;
+	height: 15px;
+}
+
+
+td.main_section_text {
+	font-weight: bold;
+	font-size: 12px;
+	color: #0027A1;
+	text-transform:uppercase;
+	text-align:center;
+	height: 15px;
+}
+
+td.main_title {
+	text-align:center;
+}
+
+td.main_section {
+	text-align:center;
+}
+
+
+
+
+/***************************************************************************
+
+
+								PAGE BOTTOM
+
+
+***************************************************************************/
+
+
+td.main_bottom_text {
+	font-weight: bold;
+	color: #0027A1;
+	text-transform:uppercase;
+	text-align:center;
+	height: 10px;
+}
+
+td.main_bottom_text a {
+	color: #0027A1;
+	text-decoration:none;
+}
+
+td.main_bottom_text a:visited {
+	color: #0027A1;
+	text-decoration:none;
+}
+
+td.main_bottom {
+	text-align:center;
+}
+
+
+/***************************************************************************
+
+
+								MESSAGE
+
+
+***************************************************************************/
+
+td.message {
+	width:100%;
+	color:#FF0000;
+	font-size:11px;
+	font-weight:bold;
+	text-align:center;
+}

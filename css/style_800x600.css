@@ -1,0 +1,463 @@
+.main_body {
+	background-color: #FFFFFF;
+	font-family:Arial;
+	font-size:8px;
+}
+
+.menu_body {
+	background-color: #0027A1;
+	font-family:Arial;
+	font-size:8px;
+}
+
+img {
+	border:0px;
+}
+
+table {
+	border-width:0px;
+	padding:0px;
+	border-spacing:0px;
+	border-collapse:collapse;
+	margin:0px;
+	
+}
+
+table.data {
+	width:100%;
+}
+
+table.validate {
+	width:100%;
+	text-align:center;
+}
+
+td {
+	font-size:8px;
+	white-space:nowrap;
+}
+
+td.number {
+	text-align:right;
+}
+
+td.data {
+	text-align:left;
+}
+
+td.date {
+	text-align:center;
+}
+
+td.center {
+	text-align:center;
+}
+
+td.button {
+	text-align:center;
+	width:20px;
+}
+
+td.separator {
+	height:8px;
+}
+
+td.min_separator {
+	height:3px;
+}
+
+td.max_separator {
+	height:10px;
+}
+
+td.field_separator {
+	width:3px;
+}
+
+td.field_headling_min {
+	width:40px;
+}
+
+td.field_headling {
+	width:60px;
+}
+
+td.field_data {
+	width:30px;
+}
+
+td.field_data_min {
+	width:15px;
+}
+
+td.field_data_medium {
+	width:80px;
+}
+
+td.field_data_large {
+	width:300px;
+}
+
+td.field_data_max {
+	width:300px;
+}
+
+td.menu_title {
+	font-weight: bold;
+	font-size: 11px;
+	color: #0027A1;
+	text-transform:uppercase;
+	background-color: #FFFFFF;
+	text-align:center;
+	height: 18px;
+}
+
+td.legend {
+	color: #0027A1;
+	background-color: #FFFFFF;
+	text-align:left;
+}
+
+td.menu_title a {
+	text-decoration:none;
+	color: #0027A1;
+}
+
+td.menu_title a:visited {
+	text-decoration:none;
+	color: #0027A1;
+}
+
+td.main_link {
+	font-weight: bold;
+	font-size: 8px;
+	color: #0027A1;
+	text-transform:uppercase;
+}
+
+
+td.main_link a {
+	text-decoration:none;
+	color: #0027A1;
+}
+
+td.main_link a:visited {
+	text-decoration:none;
+	color: #0027A1;
+}
+
+tr.link td {
+	padding:0px 0px 0px 10px;
+	font-weight: bold;
+	font-size: 8px;
+	color: #FFFFFF;
+	background-color:#0027A1;
+	text-transform:uppercase;
+}
+
+
+tr.link td a {
+	text-decoration:none;
+	color: #FFFFFF;
+}
+
+tr.link td a:visited {
+	text-decoration:none;
+	color: #FFFFFF;
+}
+
+td.link {
+	padding:0px 0px 0px 10px;
+	font-weight: bold;
+	font-size: 8px;
+	color: #FFFFFF;
+	background-color:#0027A1;
+	text-transform:uppercase;
+}
+
+
+td.link a {
+	text-decoration:none;
+	color: #FFFFFF;
+}
+
+td.link a:visited {
+	text-decoration:none;
+	color: #FFFFFF;
+}
+
+
+tr.main_title td {
+	font-weight: bold;
+	font-size: 12px;
+	color: #FFFFFF;
+	text-transform:uppercase;
+	background-color: #0027A1;
+	text-align:center;
+	height: 18px;
+}
+
+td.main_title {
+	font-weight: bold;
+	font-size: 12px;
+	color: #FFFFFF;
+	text-transform:uppercase;
+	background-color: #0027A1;
+	text-align:center;
+	height: 18px;
+}
+
+
+tr.main_section td {
+	text-align:center;
+	font-weight: bold;
+	font-size: 8px;
+	color: #FFFFFF;
+	text-transform:uppercase;
+	background-color: #0027A1;
+	height: 12px;
+}
+
+tr.main_section td a {
+	text-decoration:none;
+	color: #FFFFFF;
+}
+
+tr.main_section td a:visited {
+	text-decoration:none;
+	color: #FFFFFF;
+}
+
+tr.main_bottom td {
+	font-weight: bold;
+	color:#FFFFFF;
+	background-color: #0027A1;
+	height: 20px;
+	text-transform:uppercase;
+	font-size:10px;
+	text-align:center;
+}
+
+tr.main_bottom td a {
+	text-decoration:none;
+	color: #FFFFFF;
+}
+
+tr.main_bottom td a:visited {
+	text-decoration:none;
+	color: #FFFFFF;
+}
+
+td.main_bottom {
+	font-weight: bold;
+	color:#FFFFFF;
+	background-color: #0027A1;
+	height: 20px;
+	text-transform:uppercase;
+	font-size:10px;
+	text-align:center;
+}
+
+td.main_bottom a {
+	text-decoration:none;
+	color: #FFFFFF;
+}
+
+td.main_bottom a:visited {
+	text-decoration:none;
+	color: #FFFFFF;
+}
+
+td.main_message {
+	font-weight:bold;
+	color:#FF0000;
+}
+
+td.menu {
+	font-weight: bold;
+	color: #0027A1;
+	text-transform:uppercase;
+	background-color: #FFFFFF;
+}
+
+td.menu a {
+	color: #0027A1;
+	text-decoration:none;
+}
+td.menu a:visited {
+	text-decoration:none;
+	color: #0027A1;
+}
+
+tr th {
+	font-weight:bold;
+	text-align:center;
+	background-color:#0027A1;
+	color:#FFFFFF;
+	font-size:9px;
+	white-space:nowrap;
+}
+
+tr th a {
+	text-decoration:none;
+	color: #FFFFFF;
+}
+
+tr th a:visited {
+	text-decoration:none;
+	color: #FFFFFF;
+}
+
+tr.row {
+	color:#000000;
+	background-color:#FFFFFF;
+}
+
+tr.row td a {
+	color:#000000;
+}
+
+tr.row td a:visited {
+	color:#000000;
+}
+
+tr.alternate_row td {
+	color:#000000;
+	background-color:#E8E8E8;
+}
+
+tr.alternate_row td a {
+	color:#000000;
+}
+
+tr.alternate_row td a:visited {
+	color:#000000;
+}
+
+tr.sub_row td {
+	color:#000000;
+	background-color:#FFCCFF;
+}
+
+tr.sub_row td a {
+	color:#000000;
+}
+
+tr.sub_row td a:visited {
+	color:#000000;
+}
+
+tr.sub_alternate_row td {
+	color:#000000;
+	background-color:#FF00FF;
+}
+
+tr.sub_alternate_row td a {
+	color:#000000;
+}
+
+tr.sub_alternate_row td a:visited {
+	color:#000000;
+}
+
+tr.blocked_row td {
+	border:0px;
+	color:#000000;
+	background-color:#FFFF66;
+}
+
+tr.blocked_row td a {
+	color:#000000;
+}
+
+tr.blocked_row td a:visited {
+	color:#000000;
+}
+
+tr.out_row td {
+	border:0px;
+	color:#FFFFFF;
+	background-color:#FF0033;
+}
+
+tr.out_row td a {
+	color:#FFFFFF;
+}
+
+tr.out_row td a:visited {
+	color:#FFFFFF;
+}
+
+td.out {
+	background-color:#FF0033;
+}
+
+td.blocked {
+	background-color:#FFFF66;
+}
+
+td.out_blocked {
+	background-color:#CC6600;
+}
+
+td.sub {
+	background-color:#66FF33;
+}
+
+tr.out_blocked_row td {
+	border:0px;
+	color:#FFFFFF;
+	background-color:#CC6600;
+}
+
+tr.out_blocked_row td a {
+	color:#FFFFFF;
+}
+
+tr.out_blocked_row td a:visited {
+	color:#FFFFFF;
+}
+
+tr.out_total td {
+	border:0px;
+	font-weight:bold;
+	font-size:9px;
+	color:#FFFFFF;
+	background-color:#FF0000;
+}
+
+tr.sub_total td {
+	border:0px;
+	font-weight:bold;
+	font-size:9px;
+	color:#000000;
+	background-color:#FFCC00;
+}
+
+tr.inter_total td {
+	border:0px;
+	font-weight:bold;
+	font-size:9px;
+	color:#000000;
+	background-color:#FF9900;
+}
+
+tr.total td {
+	border:0px;
+	font-weight:bold;
+	font-size:9px;
+	color:#000000;
+	background-color:#FF6600;
+}
+
+select {
+	font-size:8px;
+}
+
+input {
+	font-size:8px;
+}
+
+textarea {
+	font-size:8px;
+}

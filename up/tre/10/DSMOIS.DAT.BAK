@@ -1,0 +1,826 @@
+A05335501                                                                     INT NEU A4 6P PP TRANSL  0000000,500000001,81M_INDEX IN      AUCHAN  00000000
+A09165932                                                                     AU-L2+1 PDOC80V BASI-ASS 0000001,640000002,16ALI     ALI             00000000
+A09245931                                                                     AU-PDOCPERS 20V AUCH-ASS 0000000,640000000,72TP087   PP              00003880
+A09246931                                                                     AU-PDOCPERS 40V AUCH-ASS 0000000,740000000,87TP087   PP              00003860
+A09247931                                                                     AU-PDOCPERS 60V AUCH-ASS 0000000,950000001,04TP087   PP              00003720
+A09248931                                                                     AU-PDOCPERS 80V AUCH-ASS 0000000,910000001,20TP085   PP              00004300
+A09249931                                                                     AU-PDOCPERS120V AUCH-ASS 0000001,180000001,32TP085   PP              00000000
+A09250931                                                                     AU-PDOCPERS160V AUCH-ASS 0000001,450000001,68TP085   PP              00002880
+A09251931                                                                     AU-PDOCPERS200V AUCH-ASS 0000001,750000002,05TP085   PP              00002500
+A581154-20                                                                    AU-PDOCPERS160V AUCH-ASS 0000000,000000000,10TP085   PP      AUCHAN  00000000
+A9071931                                                                      AU-PDOC 200V STANDUP-ASS 0000001,860000007,42ALI     ALI     AUCHAN  00000000
+BU00275400                                                                    PCTE VISITE300C ELEG-NEL 0000006,990000016,30TP070   PV              00000000
+GA00048011                                                                    PDOC 40V LUTIN PVC-NOI   0000001,900000006,61TP015   PV              00000300
+GA00048031                                                                    PDOC 40V LUTIN PVC-BLE   0000001,860000006,61TP015   PV              00000100
+GA00052011                                                                    PDOC 60V LUTIN PVC-NOI   0000002,820000010,29TP016   PV              00000450
+GA00052031                                                                    PDOC 60V LUTIN PVC-BLE   0000002,810000010,29TP016   PV              00000050
+GA00055011                                                                    PDOC 80V LUTIN PVC-ASS   0000003,440000012,71TP016   PV              00000350
+GA00055031                                                                    PDOC 80V LUTIN PVC-BLE   0000003,440000012,71TP016   PV              00000150
+GA00057011                                                                    PDOC 160V LUTIN PVC-NOI  0000006,540000018,48TP016   PV              00000380
+GI00275010                                                                    PCTE VISITE 300C PVC-NOI 0000006,390000011,30TP070   PV              00000600
+G854026-20                                                                    L4 PDOC 40V HAWAI        0000002,220000009,77TP098   PP              00000000
+G858026-20                                                                    L4 PDOC 80V HAWAI        0000003,200000013,92TP098   PP              00000144
+VIVDIV10                                                                      DIV 10P PP3/10E          0000000,950000000,10M_INDEX IN              00001600
+VIVDIV5                                                                       DIV 5P PP3/10E           0000000,520000000,10M_INDEX IN              00000000
+000311-20                                                                     LC-PDOC PERSO 40V ESQ PP 0000000,700000000,60TP096   PP      GALEC   00004152
+00036-20                                                                      INT ALP A4+ 26P PVC BLC  0000002,260000009,19RA2     IN              00000210
+00044011                                                                      PDOC 200V LUTIN PVC-NOI  0000007,600000017,23TP016   PV              00001316
+00045-06                                                                      PDOC 20V LUTIN PVC-GCL   0000001,520000003,20TP015   PV              00000050
+00045011                                                                      PDOC 20V LUTIN PVC-NOI   0000001,580000003,20TP015   PV              00001175
+00045031                                                                      PDOC 20V LUTIN PVC-BLE   0000001,580000003,20TP015   PV              00000495
+00045051                                                                      PDOC 20V LUTIN PVC-BDX   0000001,580000003,20TP015   PV              00000100
+00045071                                                                      PDOC 20V LUTIN PVC-VRT   0000001,580000003,20TP015   PV              00000240
+00045121                                                                      PDOC 20V LUTIN PVC-BCL   0000001,550000003,20ALI     ALI             00000000
+00045191                                                                      PDOC 20V LUTIN PVC-VCL   0000001,550000003,20ALI     ALI             00000000
+00045961                                                                      PDOC 20V LUTIN PVC-ASS   0000001,650000003,20TP015   PV              00000520
+00046961                                                                      P.DOCUMENTS A4 LUTIN PVC 0000001,510000000,10TP015   PV              00000000
+00048-06                                                                      PDOC 40V LUTIN PVC-GCL   0000001,850000004,97TP015   PV              00000275
+00048011                                                                      PDOC 40V LUTIN PVC-NOI   0000001,900000004,97TP015   PV              00001920
+00048031                                                                      PDOC 40V LUTIN PVC-BLE   0000001,900000004,97TP015   PV              00000440
+00048051                                                                      PDOC 40V LUTIN PVC-BDX   0000001,900000004,97TP015   PV              00000540
+00048071                                                                      PDOC 40V LUTIN PVC-VRT   0000001,900000004,97TP015   PV              00000510
+00048191                                                                      PDOC 40V LUTIN PVC-VCL   0000001,870000004,97ALI     ALI             00000000
+00048961                                                                      PDOC 40V LUTIN PVC-ASS   0000001,900000004,97TP015   PV              00000625
+00048971                                                                      P.DOCUMENTS A4 LUTIN PVC 0000001,650000000,10TP015   PV              00000000
+00052-06                                                                      PDOC 60V LUTIN PVC-GCL   0000002,760000007,99TP016   PV              00000060
+00052011                                                                      PDOC 60V LUTIN PVC-NOI   0000002,810000007,99TP016   PV              00001020
+00052031                                                                      PDOC 60V LUTIN PVC-BLE   0000002,810000007,99TP016   PV              00000685
+00052051                                                                      PDOC 60V LUTIN PVC-BDX   0000002,810000007,99TP016   PV              00000230
+00052071                                                                      PDOC 60V LUTIN PVC-VRT   0000002,810000007,99TP016   PV              00000310
+00052191                                                                      PDOC 60V LUTIN PVC-VCL   0000002,780000007,99ALI     ALI             00000000
+00052961                                                                      PDOC 60V LUTIN PVC-ASS   0000002,810000007,99TP016   PV              00000370
+00055-06                                                                      PDOC 80V LUTIN PVC-GCL   0000003,380000009,89TP016   PV              00000140
+00055011                                                                      PDOC 80V LUTIN PVC-NOI   0000003,440000009,89TP016   PV              00000525
+00055031                                                                      PDOC 80V LUTIN PVC-BLE   0000003,440000009,89TP016   PV              00000115
+00055051                                                                      PDOC 80V LUTIN PVC-BDX   0000003,440000009,89TP016   PV              00000210
+00055071                                                                      PDOC 80V LUTIN PVC-VRT   0000003,440000009,89TP016   PV              00000140
+00055961                                                                      PDOC 80V LUTIN PVC-ASS   0000003,440000009,89TP016   PV              00000330
+00056-06                                                                      PDOC 100V LUTIN PVC-GCL  0000003,960000011,56TP016   PV              00000125
+00056011                                                                      PDOC 100V LUTIN PVC-NOI  0000004,010000011,56TP016   PV              00001050
+00056031                                                                      PDOC 100V LUTIN PVC-BLE  0000004,010000011,56TP016   PV              00000540
+00056051                                                                      PDOC 100V LUTIN PVC-BDX  0000004,010000011,56TP016   PV              00000055
+00056071                                                                      PDOC 100V LUTIN PVC-VRT  0000004,010000011,56TP016   PV              00000020
+00056961                                                                      PDOC 100V LUTIN PVC-ASS  0000004,010000011,56TP016   PV              00000395
+00057011                                                                      PDOC 160V LUTIN PVC-NOI  0000006,440000013,82TP016   PV              00000862
+00057051                                                                      PDOC 160V LUTIN PVC-BDX  0000006,430000013,82TP016   PV              00000068
+00058031                                                                      PDOC40V LUTIN VISION-BLE 0000002,260000004,97TP015   PV              00000035
+00058061                                                                      PDOC40V LUTIN VISION-BLC 0000002,260000004,97TP015   PV              00000270
+00058141                                                                      PDOC40V LUTIN VISION-GCL 0000002,260000004,97TP015   PV              00000000
+00058161                                                                      PDOC40V LUTIN VISION-CAS 0000002,260000004,97TP015   PV              00000205
+00058181                                                                      PDOC40V LUTIN VISION-FRA 0000002,260000004,97TP015   PV              00000005
+00058901                                                                      PDOC40V LUTIN VISION-ASS 0000002,260000004,97TP015   PV              00001990
+00059031                                                                      PDOC60V LUTIN VISION-BLE 0000003,170000007,99TP016   PV              00000130
+00059061                                                                      PDOC60V LUTIN VISION-BLC 0000003,170000007,99TP016   PV              00000075
+00059141                                                                      PDOC60V LUTIN VISION-GCL 0000003,170000007,99TP016   PV              00000005
+00059161                                                                      PDOC60V LUTIN VISION-CAS 0000003,170000007,99TP016   PV              00000005
+00059181                                                                      PDOC60V LUTIN VISION-FRA 0000003,170000007,99TP016   PV              00000000
+00059901                                                                      PDOC60V LUTIN VISION-ASS 0000003,170000007,99TP016   PV              00000365
+00060031                                                                      PDOC80V LUTIN VISION-BLE 0000003,800000009,89TP016   PV              00000070
+00060061                                                                      PDOC80V LUTIN VISION-BLC 0000003,800000009,89TP016   PV              00000010
+00060141                                                                      PDOC80V LUTIN VISION-GCL 0000003,730000009,89TP016   PV              00000010
+00060161                                                                      PDOC80V LUTIN VISION-CAS 0000003,800000009,89TP016   PV              00000000
+00060181                                                                      PDOC80V LUTIN VISION-FRA 0000003,800000009,89TP016   PV              00000045
+00060901                                                                      PDOC80V LUTIN VISION-ASS 0000003,800000009,89TP016   PV              00000705
+00065011                                                                      PDOC A5 30V LUTIN -NOI   0000002,470000004,05TP014   PV              00000000
+00065961                                                                      PDOC A5 30V LUTIN -ASS   0000002,470000004,05TP014   PV              00000550
+00066-20                                                                      PDOC 30V LUTIN PVC-ASS   0000001,930000003,00TP014   PV              00000000
+00087012                                                                      PDOC 6FAI 120V VOLTI-NOI 0000006,780000015,83TP040   PV              00000044
+00089082                                                                      INT A4 5P VOLTIPLAST PVC 0000002,190000004,51TP040   PV              00000400
+00092012                                                                      PDOC10FAI 200V VOLTI-NOI 0000007,950000021,96TP040   PV              00000133
+00094-20                                                                      INT PERS A4+ 12P PVC     0000001,470000006,36ITRAC   IN              00001800
+00107013                                                                      PDOC 2FAI 40V VOLTI-NOI  0000006,440000009,82TP040   PV              00000072
+00111502                                                                      INT MEN A4 12P PVC BLC   0000001,070000003,83RA2     IN              00000000
+00115502                                                                      INT NUM A4 31P PVC BLC   0000002,470000007,51RA2     IN              00000000
+00116503                                                                      INT ALP A4 26P PVC BLC   0000002,150000006,64RA2     IN              00000000
+00127-20                                                                      PINTERC A4+ 6P PVC17/100 0000001,020000003,47ITRAC   IN              00000620
+00142086                                                                      S10POCH FAIS VOLTIPLAST  0000000,360000001,79TP040   PV              00000280
+00153012                                                                      PDOC20FAI 400V VOLTI-NOI 0000032,650000095,92TP040   PV      GALEC   00000034
+00156-20                                                                      INT NEU A4 12P PVC COL   0000001,300000003,34M_INDEX IN              00000000
+00165-17                                                                      S10 PPERF FCLIREL        0000003,680000012,71TP063   PV              00000050
+00165-20                                                                      S10 PPERF FCLIREL        0000003,680000012,71TP063   PV              00000290
+00168-20                                                                      LC-PDOC PERSO 60V ESQ PP 0000000,880000000,70TP096   PP      GALEC   00007275
+00169-20                                                                      LC-PDOC PERSO 80V ESQ PP 0000001,010000000,80TP096   PP      GALEC   00001908
+00170-20                                                                      LC-PDOC PERSO 120V ESQ P 0000001,360000001,08TP096   PP      GALEC   00004150
+00265400                                                                      REP ADRESSE ELEGANCE-NEL 0000014,560000023,46TP070   PV              00000050
+00275010                                                                      PCTE VISITE 300C PVC-NOI 0000006,400000009,36TP070   PV              00000120
+00275400                                                                      PCTE VISITE 72C ELEG-NEL 0000006,990000012,25TP070   PV              00000985
+00275440                                                                      PCTE VISITE 72C ELEG-BEL 0000007,000000012,25TP070   PV              00000110
+00284011                                                                      CLA3IT D40 4A TRIAD-NOI  0000005,180000013,46TP070   PV              00000042
+00311-20                                                                      LC-PDOC40V ESQ PPOPA     0000000,600000001,89ALI     ALI     GALEC   00000000
+00358961                                                                      P DISQUE STATIONNEMENT   0000001,200000002,76TP070   PV              00000000
+00375032                                                                      BADGE SP PINCE 60x90-BLE 0000000,260000000,26TP-CATLESS TTANT        00001400
+00375061                                                                      BADGE SP PINCE 60x90-BLC 0000000,160000000,29TP-CATLESS TTANT        00005000
+00375062                                                                      BADGE SP PINCE 60x90-BLC 0000000,160000000,26TP-CATLESS TTANT        00006500
+00450505                                                                      INT ALP A4 26P MYL RGE   0000001,280000004,82RA6-IM  IN              00000680
+00481013                                                                      PDOC10FAI 200V VOLTI-NOI 0000025,750000064,71TP040   PV              00000030
+00485-20                                                                      INT PERS A4 12P PVC      0000001,440000006,13ITRAC   IN              00000020
+00490031                                                                      S10 PCOIN FARDOR PVC-BLE 0000003,610000004,39TP036   IN              00000060
+00490071                                                                      S10 PCOIN FARDOR PVC-VRT 0000003,610000004,39TP036   IN              00000005
+00490081                                                                      S10 PCOIN FARDOR PVC-INC 0000003,540000004,39TP036   IN              00003625
+00490091                                                                      S10 PCOIN FARDOR PVC-RGE 0000003,610000004,39TP036   IN              00000140
+00490131                                                                      S10 PCOIN FARDOR PVC-JAU 0000003,610000004,39TP036   IN              00000050
+00490151                                                                      S10 PCOIN FARDOR PVC-VIO 0000003,610000004,39TP036   IN              00000205
+00490961                                                                      PCOIN FARDOR PVC-ASS     0000000,350000000,46TP036   IN              00040350
+00513081                                                                      S10 PCOIN FARDCLIP-INC   0000006,970000012,13TP036   IN              00000200
+00521401                                                                      CHEM ELEGANCE PVC-NEL    0000003,340000006,12TP039   PV              00000033
+00531011                                                                      PCTE VISITE 80C ELEG-NEL 0000002,620000004,42TP070   PV              00000185
+00531401                                                                      PCTE VISITE 80C ELEG-NEL 0000003,240000005,24TP070   PV              00001135
+00531441                                                                      PCTE VISITE 80C ELEG-BEL 0000003,240000005,24TP070   PV              00000345
+00532401                                                                      PDOC 40V ELEGANCE-NEL    0000004,230000007,87TP016   PV              00000465
+00532411                                                                      PDOC 40V ELEGANCE-GEL    0000004,230000007,87TP016   PV              00000025
+00532441                                                                      PDOC 40V ELEGANCE-BEL    0000004,240000007,87TP016   PV              00000290
+00536-20                                                                      INT PERS A4 6P PVC17/100 0000000,790000003,81ITRAC   IN              00000000
+00536503                                                                      INT PERS A4 6P PVC17/100 0000000,810000003,81ALI     ALI             00000000
+00537-20                                                                      INT PERS A4+ 6P PVC      0000000,820000003,93ITRAC   IN              00002640
+00539401                                                                      PDOC 60V ELEGANCE-NEL    0000004,580000010,63TP016   PV              00000175
+00539441                                                                      PDOC 60V ELEGANCE-BEL    0000004,580000010,63TP016   PV              00000000
+00546401                                                                      PDOC 100V ELEGANCE-NEL   0000005,790000015,02TP016   PV              00000475
+00546441                                                                      PDOC 100V ELEGANCE-BEL   0000005,830000015,02TP016   PV              00000025
+00551083                                                                      S10 ETUI DBL 24x32 PVC   0000004,970000012,98TP062   PV              00000080
+00552-17                                                                      S10ETUI DBL A4 PVC30/100 0000004,660000009,41TP062   PV              00000100
+00554-17                                                                      S10ETUI DBL A5 PVC30/100 0000002,930000006,80TP062   PV              00000120
+00567083                                                                      SACHET 10 ETUIS TRIPLES  0000003,930000043,28ALI     ALI             00000000
+00572-17                                                                      ETUI CTE GRISE PVC30/100 0000000,450000000,73TP064   PV              00000460
+00573-17                                                                      ETUI CTE GRISE EUROP PVC 0000000,650000000,72TP064   PV              00000240
+00576010                                                                      CL PBOOK 400X300 PVC-NOI 0000012,450000030,63TP070   PV              00000407
+00603-17                                                                      S10ETUI SPL A4 PVC30/100 0000002,370000005,14TP063   PV              00000040
+00603085                                                                      S10ETUI SPL A4 PVC30/100 0000002,380000005,14ALI     ALI             00000000
+00605-17                                                                      S10ETUI SPL A3 PVC30/100 0000004,260000010,39TP062   PV              00000010
+00616-17                                                                      S50 ETUI 55x86 PVC15/100 0000002,540000008,16TP064   PV              00000060
+00623013                                                                      PDOC20FAI 400V VOLTO-NOI 0000030,690000094,76ALI     ALI             00000000
+00639-20                                                                      INT NEU A4 6P PVC COL    0000000,730000001,72M_INDEX IN              00000000
+00656010                                                                      CL24X32 D40 4A TRIAD-NOI 0000008,760000020,77TP070   PV              00000000
+00660010                                                                      CL A4IT D40 3A TRIAD-NOI 0000008,450000014,29TP070   PV              00000078
+00675-17                                                                      ETUI A SUSPEN RIG A4 PVC 0000001,010000001,81TP070   PV              00000300
+00735011                                                                      PDOC A3 40V LUTIN -NOI   0000004,100000010,10TP071   PV              00000120
+00751121                                                                      PDOC 40V FLEXIPRATIC-BCL 0000001,050000003,65ALI     ALI             00000000
+00751961                                                                      PDOC 40V FLEXIPRATIC-ASS 0000001,090000003,65ALI     ALI             00000040
+00752011                                                                      PDOC 60V FLEXIPRATIC-NOI 0000001,230000004,54ALI     ALI             00000000
+00759082                                                                      S10 PPERF A5 ADRINGBOOK  0000001,810000004,69TP064   PV              00000010
+00775141                                                                      CHEM SOUFFLET PERSO-GCL  0000002,140000004,33TP070   PV              00000090
+00911500                                                                      OD-INTALP A4 NDAY MYLRGE 0000001,230000003,28RA6-IM  IN              00000210
+00966-17                                                                      S10 PPERF 16CVISITE PVC  0000001,580000003,24TP062   PV              00000390
+01033-17                                                                      S10PPERF CARTORI BOOK4C  0000000,940000002,77TP062   PV              00001760
+01047-17                                                                      S10PPERF CARTORI BOOK3C  0000000,940000002,77TP062   PV              00000100
+01102082                                                                      S10 PPERF 24x32 PVC9/100 0000002,330000006,82TP063   PV              00000350
+01105082                                                                      S10PPERF A3IT PLIEE PVC  0000005,780000009,24TP063   PV              00000100
+01106082                                                                      S10 PPERF A3IT PVC       0000002,590000008,15TP063   PV              00001225
+01109082                                                                      S10 PPERF A4IT PVC       0000001,380000005,43TP063   PV              00000000
+01113-17                                                                      S10 PPERF A5 PVC SUP     0000001,340000005,04TP063   PV              00000080
+01544011                                                                      PDOC 20V BASIC PP-NOI    0000000,370000000,46TP088   PP              00002440
+01544031                                                                      PDOC 20V BASIC PP-BLE    0000000,370000000,46TP088   PP              00003870
+01544071                                                                      PDOC 20V BASIC PP-VRT    0000000,370000000,46TP088   PP              00000410
+01544091                                                                      PDOC 20V BASIC PP-RGE    0000000,370000000,46TP088   PP              00001820
+01544961                                                                      PDOC 20V BASIC PP-ASS    0000000,370000000,46TP088   PP              00001130
+01545011                                                                      PDOC 40V BASIC PP-NOI    0000000,430000000,52TP088   PP              00004040
+01545031                                                                      PDOC 40V BASIC PP-BLE    0000000,430000000,52TP088   PP              00004980
+01545071                                                                      PDOC 40V BASIC PP-VRT    0000000,430000000,52TP088   PP              00000870
+01545091                                                                      PDOC 40V BASIC PP-RGE    0000000,430000000,52TP088   PP              00002530
+01545961                                                                      PDOC 40V BASIC PP-ASS    0000000,430000000,52TP088   PP              00001460
+01545971                                                                      PDOC 40V BAS.PP-ASTRL    0000000,300000000,52TP088   PP              00000310
+01546011                                                                      PDOC 60V BASIC PP-NOI    0000000,510000000,64TP088   PP              00003400
+01546031                                                                      PDOC 60V BASIC PP-BLE    0000000,510000000,64TP088   PP              00003960
+01546071                                                                      PDOC 60V BASIC PP-VRT    0000000,510000000,64TP088   PP              00000880
+01546091                                                                      PDOC 60V BASIC PP-RGE    0000000,510000000,64TP088   PP              00001000
+01546961                                                                      PDOC 60V BASIC PP-ASS    0000000,510000000,64TP088   PP              00000840
+01546971                                                                      PDOC 60V BAS.PP-ASTRL    0000000,510000000,64TP088   PP              00000870
+01706351                                                                      INT ALP A4 26P CTE 240G  0000001,290000003,12RA2     IN              00001160
+01747011                                                                      PDOC 80V BASIC PP-NOI    0000000,520000000,74TP088   PP              00003530
+01747031                                                                      PDOC 80V BASIC PP-BLE    0000000,520000000,74TP088   PP              00002980
+01747071                                                                      PDOC 80V BASIC PP-VRT    0000000,520000000,74TP088   PP              00001320
+01747091                                                                      PDOC 80V BASIC PP-RGE    0000000,520000000,74TP088   PP              00001190
+01747961                                                                      PDOC 80V BASIC PP-ASS    0000000,520000000,74TP088   PP              00002840
+01747971                                                                      PDOC 80V BAS.PP-ASTRL    0000000,520000000,74TP088   PP              00000370
+01754501                                                                      INT NEU A4 6P PP COL     0000000,430000000,67M_INDEX IN      RP DIF  00000000
+01756501                                                                      INT NEU A4 PP 12P COL    0000000,720000001,12M_INDEX IN      RP DIF  00000000
+01797501                                                                      INT NUM A4 12P PVC BLC   0000001,070000003,83RA2     IN              00000000
+01799501                                                                      INT MEN A4+ 12P PVC BLC  0000001,120000005,59RA2     IN              00000450
+01800501                                                                      INT NUM A4+ 31P PVC BLC  0000002,600000010,89RA2     IN              00000000
+01801501                                                                      INT NUM A4+ 12P PVC BLC  0000001,120000005,76RA2     IN              00000000
+01806081                                                                      S10PPERF 20CVISITE PVC   0000001,590000003,35TP062   PV              00001935
+01892080                                                                      ETUI A SUSPEN RIG A4 PVC 0000001,460000003,70TP070   PV              00000000
+01894080                                                                      S10 PPERF 3CD PVC 20/100 0000005,090000009,79TP063   PV              00000150
+01902061                                                                      S20 BGE SP PINCE 60x90   0000003,950000011,77TP-CATLESS TTANT        00000450
+01904501                                                                      S10 BGE P CTE MAGN 55x86 0000003,680000010,70TP-CATLESS TTANT        00000060
+01906011                                                                      PDOC 40V STAND'UP-NOI    0000000,920000001,96TP087   PP              00000040
+01906071                                                                      PDOC 40V STAND'UP-VRT    0000000,910000001,96ALI     ALI             00000000
+01906091                                                                      PDOC 40V STAND'UP-RGE    0000000,910000001,96ALI     ALI             00000000
+01907011                                                                      PDOC 60V STAND'UP-NOI    0000001,040000002,66TP087   PP              00000090
+01907031                                                                      PDOC 60V STAND'UP-BLE    0000001,040000002,66ALI     ALI             00000000
+01907071                                                                      PDOC 60V STAND'UP-VRT    0000001,030000002,66ALI     ALI             00000000
+01907091                                                                      PDOC 60V STAND'UP-RGE    0000001,030000002,66ALI     ALI             00000000
+01907961                                                                      PDOC 60V STAND'UP-ASS    0000001,090000002,66ALI     ALI             00000030
+01908011                                                                      PDOC 80V STAND'UP-NOI    0000001,140000003,18TP087   PP              00000020
+01908031                                                                      PDOC 80V STAND'UP-BLE    0000001,140000003,18TP087   PP              00000010
+01908071                                                                      PDOC 80V STAND'UP-VRT    0000001,140000003,18TP087   PP              00000000
+01908091                                                                      PDOC 80V STAND'UP-RGE    0000001,140000003,18TP087   PP              00000000
+01908961                                                                      PDOC 80V STAND'UP-ASS    0000001,200000003,18TP087   PP              00000000
+01909011                                                                      PDOC 100V STAND'UP-NOI   0000001,210000003,76TP085   PP              00000180
+01909031                                                                      PDOC 100V STAND'UP-BLE   0000001,210000003,76TP085   PP              00000010
+01909961                                                                      PDOC 100V STAND'UP-ASS   0000001,450000003,76TP085   PP              00000010
+01910011                                                                      PDOC 120V STAND'UP-NOI   0000001,370000004,28TP085   PP              00000010
+01910031                                                                      PDOC 120V STAND'UP-BL    0000001,370000004,28TP085   PP              00000000
+01910961                                                                      PDOC 120V STAND'UP-ASS   0000001,420000004,28TP085   PP              00000250
+01912011                                                                      PDOC 160V STAND'UP-NOI   0000001,530000006,07TP085   PP              00000260
+01912031                                                                      PDOC 160V STAND'UP-BLE   0000001,530000006,07TP085   PP              00000050
+01914011                                                                      PDOC 200V STAND'UP-NOI   0000001,870000007,63TP085   PP              00000590
+01914031                                                                      PDOC 200V STAND'UP-BLE   0000001,870000007,63TP085   PP              00000010
+01915011                                                                      PDOC 40V STAND PERSO-NOI 0000000,770000002,54TP087   PP              00000910
+01915031                                                                      PDOC 40V STAND PERSO-BLE 0000000,770000002,54ALI     ALI             00000010
+01916011                                                                      PDOC 60V STAND PERSO-NOI 0000000,950000003,12TP087   PP              00000090
+01917011                                                                      PDOC 80V STAND PERSO-NOI 0000001,120000003,81TP087   PP              00000010
+01919011                                                                      PDOC 100V BASIC PP-NOI   0000000,580000000,92TP088   PP              00000890
+01919031                                                                      PDOC 100V BASIC PP-BLE   0000000,580000000,92TP088   PP              00000370
+01919071                                                                      PDOC 100V BASIC PP-VRT   0000000,580000000,92TP088   PP              00000050
+01919091                                                                      PDOC 100V BASIC PP-RGE   0000000,580000000,92TP088   PP              00000090
+01919961                                                                      PDOC 100V BASIC PP-ASS   0000000,580000000,92TP088   PP              00001570
+01920011                                                                      PDOC 120V BASIC PP-NOI   0000000,650000001,07TP088   PP              00000750
+01920031                                                                      PDOC 120V BASIC PP-BLE   0000000,650000001,07TP088   PP              00000580
+01920071                                                                      PDOC 120V BASIC PP-VRT   0000000,650000007,13TP088   PP              00000000
+01920091                                                                      PDOC 120V BASIC PP-RGE   0000000,650000007,13TP088   PP              00000010
+01920961                                                                      PDOC 120V BASIC PP-ASS   0000000,650000001,07TP088   PP              00000040
+01921011                                                                      PDOC 140V BASIC PP-NOI   0000000,760000001,33TP088   PP              00000120
+01921961                                                                      PDOC 140V BASIC PP-ASS   0000000,760000001,33TP088   PP              00000000
+01922011                                                                      PDOC 160V BASIC PP-NOI   0000000,840000001,39TP088   PP              00000600
+01922031                                                                      PDOC 160V BASIC PP-BL    0000000,840000001,39TP088   PP              00000250
+01922071                                                                      PDOC 160V BASIC PP-VRT   0000000,840000001,92TP088   PP              00000010
+01922091                                                                      PDOC 160V BASIC PP-RGE   0000000,840000001,92TP088   PP              00000050
+01935501                                                                      S20 FEUILLES A5 ADRING   0000001,260000003,58TP070   PV              00000015
+01938011                                                                      PDOC 200V BASIC PP-NOI   0000001,040000001,73TP088   PP              00000770
+01938031                                                                      PDOC 200V BASIC PP-BLE   0000001,040000001,73TP088   PP              00000290
+01938071                                                                      PDOC 200V BASIC PP-VRT   0000001,040000002,26TP088   PP              00000000
+01938091                                                                      PDOC 200V BASIC PP-RGE   0000001,040000002,26TP088   PP              00000000
+01953011                                                                      RH-PDOC 40V RAHMQVIS-NOI 0000000,990000001,39TP087   PP              00000000
+01953091                                                                      RH-PDOC 40V RAHMQUIS-RGE 0000000,960000000,10TP087   PP      ERIC R  00000000
+01953121                                                                      RH-PDOC 40V RAHMQVIS-BCL 0000001,000000001,39TP087   PP              00000000
+01953311                                                                      RH-PDOC 40V RAHMQVIS-ARG 0000001,100000001,39TP087   PP              00000000
+01961031                                                                      CL CD 20CD D50 3A -BLE   0000008,000000017,10TP040   PV              00000045
+01962081                                                                      S5 PPERF 2CD PP          0000002,200000004,04TP040   PV              00000030
+01964081                                                                      S10 PPERF 8DISCQ PVC     0000004,390000009,82TP063   PV              00000010
+01993011                                                                      PDOC 20V HUNTER PVC-NOI  0000000,540000000,81TP087   PP              00002040
+01993031                                                                      PDOC 20V HUNTER PVC-BLE  0000000,540000000,81TP087   PP              00000240
+01993071                                                                      PDOC 20V HUNTER PVC-VRT  0000000,540000000,81TP087   PP              00000060
+01993091                                                                      PDOC 20V HUNTER PVC-RGE  0000000,540000000,81TP087   PP              00000130
+01993961                                                                      PDOC 20V HUNTER PVC-ASS  0000000,630000000,81TP087   PP              00000220
+01994011                                                                      PDOC 40V HUNTER PVC-NOI  0000000,690000001,36TP087   PP              00001700
+01994031                                                                      PDOC 40V HUNTER PVC-BLE  0000000,690000001,36TP087   PP              00000740
+01994071                                                                      PDOC 40V HUNTER PVC-VRT  0000000,690000001,36TP087   PP              00000000
+01994091                                                                      PDOC 40V HUNTER PVC-RGE  0000000,690000001,36TP087   PP              00000070
+01994961                                                                      PDOC 40V HUNTER PVC-ASS  0000000,780000001,36TP087   PP              00000095
+01995011                                                                      PDOC 60V HUNTER PVC-NOI  0000000,860000001,73TP087   PP              00001140
+01995031                                                                      PDOC 60V HUNTER PVC-BLE  0000000,860000001,73TP087   PP              00001030
+01995071                                                                      PDOC 60V HUNTER PVC-VRT  0000000,860000001,73TP087   PP              00000060
+01995091                                                                      PDOC 60V HUNTER PVC-RGE  0000000,860000001,73TP087   PP              00000070
+01995961                                                                      PDOC 60V HUNTER PVC-ASS  0000000,950000001,73TP087   PP              00000325
+01996011                                                                      PDOC 80V HUNTER PVC-NOI  0000001,060000001,99TP087   PP              00001765
+01996031                                                                      PDOC 80V HUNTER PVC-BLE  0000001,060000001,99TP087   PP              00000545
+01996071                                                                      PDOC 80V HUNTER PVC-VRT  0000001,060000001,99TP087   PP              00000000
+01996091                                                                      PDOC 80V HUNTER PVC-RGE  0000001,060000001,99TP087   PP              00000290
+01996961                                                                      PDOC 80V HUNTER PVC-ASS  0000001,110000001,99TP087   PP              00000260
+01997011                                                                      PDOC 100V HUNTER PVC-NOI 0000001,310000002,29TP087   PP              00001160
+01997031                                                                      PDOC 100V HUNTER PVC-BLE 0000001,310000002,29TP087   PP              00000455
+01997071                                                                      PDOC 100V HUNTER PVC-VRT 0000001,310000002,29TP087   PP              00000000
+01997091                                                                      PDOC 100V HUNTER PVC-RGE 0000001,310000002,29TP087   PP              00000000
+01997961                                                                      PDOC 100V HUNTER PVC-ASS 0000001,360000002,29TP087   PP              00000375
+02034011                                                                      P BOOK AM 40V PVC-NOI    0000005,790000012,84TP035   PP              00000204
+02049011                                                                      PDOC AM 40V FLEXAM-NOI   0000002,570000006,70TP035   PP              00000120
+02049031                                                                      PDOC AM 40V FLEXAM-BLE   0000002,570000006,70ALI     ALI             00000000
+02050081                                                                      S10 PPERF AM FLEXAM PP   0000000,680000002,03TP035   PP              00005400
+02052011                                                                      RH-PDOC FLEXBOOK 40V-NOI 0000002,450000003,59TP035   PP              00000000
+02052311                                                                      RH-PDOC FLEXBOOK 40V-ARG 0000002,550000003,71TP035   PP              00000000
+02054081                                                                      PDOC AM 40V+INT FLEX-INC 0000002,780000008,09TP035   PP              00000885
+02060011                                                                      S10 PPERF AM FLEXAM PP   0000001,970000004,49TP035   PP              00000210
+02061011                                                                      P BOOK AM A3 40V PVC-NOI 0000008,800000020,54TP035   PP              00000070
+02062011                                                                      S10PPERF A3FLEXAM PP     0000002,440000007,15TP035   PP              00000130
+02063441                                                                      PCTE VISITE 48C ELEG-BEL 0000002,630000004,16TP070   PV              00000140
+02064011                                                                      PDOC10FAI TT TERRAIN-NOI 0000013,120000043,91TP040   PV              00000062
+02068081                                                                      C CLIP OPALINE PP-INC    0000000,260000000,95TP-CATLESS TTANT        00000050
+02068961                                                                      C CLIP CORNER PP5/10-ASS 0000000,350000001,43TP-CATLESS TTANT        00000050
+02084031                                                                      OD-PDOC 40V NDAY PP-BLE  0000000,720000001,39ALI     ALI             00000000
+02084071                                                                      OD-PDOC 40V NDAY PP-VRT  0000000,720000001,39ALI     ALI             00000000
+02084091                                                                      OD-PDOC 40V NDAY PP-RGE  0000000,720000001,39ALI     ALI             00000000
+02084121                                                                      OD-PDOC 40V NDAY PP-BCL  0000000,720000001,39ALI     ALI             00000000
+02084141                                                                      OD-PDOC 40V NDAY PP-GRI  0000000,720000001,39ALI     ALI             00000000
+02085031                                                                      OD-PDOC 60V NDAY PP-BLE  0000000,890000001,75ALI     ALI             00000000
+02085071                                                                      OD-PDOC 60V NDAY PP-VRT  0000000,890000001,75ALI     ALI             00000000
+02085091                                                                      OD-PDOC 60V NDAY PP-RGE  0000000,890000001,75ALI     ALI             00000000
+02085141                                                                      OD-PDOC 60V NDAY PP-GRI  0000000,890000001,75ALI     ALI             00000000
+02086031                                                                      OD-PDOC 80V NDAY PP-BLE  0000001,110000002,29ALI     ALI             00000000
+02086071                                                                      OD-PDOC 80V NDAY PP-VRT  0000001,110000002,29ALI     ALI             00000000
+02086091                                                                      OD-PDOC 80V NDAY PP-RGE  0000001,110000002,29ALI     ALI             00000000
+02086121                                                                      OD-PDOC 80V NDAY PP-BCL  0000001,110000002,29ALI     ALI             00000000
+02086141                                                                      OD-PDOC 80V NDAY PP-GRI  0000001,110000002,29ALI     ALI             00000000
+02092011                                                                      FI-PDOC 20V PERF-NOI     0000000,580000000,75TP087   PP              00000000
+02092031                                                                      FI-PDOC 20V PERF-BLE     0000000,580000000,75TP087   PP              00000000
+02092051                                                                      FI-PDOC 20V PERF-BDX     0000000,580000000,75TP087   PP              00000200
+02092071                                                                      FI-PDOC 20V PERF-VRT     0000000,580000000,75TP087   PP              00000000
+02093011                                                                      FI-PDOC 40V PERF-NOI     0000000,720000001,53TP087   PP              00000500
+02093031                                                                      FI-PDOC 40V PERF-BLE     0000000,720000001,53TP087   PP              00000400
+02093051                                                                      FI-PDOC 40V PERF-BDX     0000000,720000001,53TP087   PP              00000000
+02093071                                                                      FI-PDOC 40V PERF-VRT     0000000,720000001,53TP087   PP              00000000
+02094011                                                                      FI-PDOC 60V PERF-NOI     0000000,890000001,96TP087   PP              00000000
+02094031                                                                      FI-PDOC 60V PERF-BLE     0000000,890000001,96TP087   PP              00000300
+02094051                                                                      FI-PDOC 60V PERF-BDX     0000000,890000001,96TP087   PP              00000000
+02094071                                                                      FI-PDOC 60V PERF-VRT     0000000,890000001,96TP087   PP              00000000
+02095011                                                                      FI-PDOC 80V PERF-NOI     0000001,110000002,43TP087   PP              00000500
+02095031                                                                      FI-PDOC 80V PERF-BLE     0000001,110000002,43TP087   PP              00000500
+02095051                                                                      FI-PDOC 80V PERF-BDX     0000001,110000002,43TP087   PP              00000500
+02095071                                                                      FI-PDOC 80V PERF-VRT     0000001,110000002,43TP087   PP              00000000
+02096011                                                                      FI-PDOC 100V PERF-NOI    0000001,410000002,74TP087   PP              00000600
+02096031                                                                      FI-PDOC 100V PERF-BLE    0000001,410000002,74TP087   PP              00000200
+02096051                                                                      FI-PDOC 100V PERF-BDX    0000001,410000002,74TP087   PP              00000300
+02096071                                                                      FI-PDOC 100V PERF-VRT    0000001,410000002,74TP087   PP              00000000
+02098081                                                                      RELIURE ROB MARTIN-INC   0000001,130000002,89TP035   PP              00001000
+02112031                                                                      OD-PDOC 100V NDAY PP-BLE 0000001,360000002,82ALI     ALI             00000000
+02112071                                                                      OD-PDOC 100V NDAY PP-VRT 0000001,360000002,82ALI     ALI             00000000
+02112091                                                                      OD-PDOC 100V NDAY PP-RGE 0000001,360000002,82ALI     ALI             00000000
+02142011                                                                      PCTE VISITE240C PVC -NOI 0000004,750000008,55TP070   PV              00002400
+02162011                                                                      PDOC200V STAND PERSO-NOI 0000001,810000009,01ALI     ALI             00000010
+02164011                                                                      PDOC 20V STAND'UP-NOI    0000000,780000001,62ALI     ALI             00000000
+02171011                                                                      FI-PDOC 200V PERF-NOI    0000002,330000004,28TP087   PP              00000000
+02171031                                                                      FI-PDOC 200V PERF-BLE    0000002,330000004,28TP087   PP              00000600
+02194401                                                                      PCTE VISITE400C ELEG-NEL 0000007,400000011,41TP070   PV              00000310
+02194441                                                                      PCTE VISITE400C ELEG-BEL 0000007,430000011,41TP070   PV              00000075
+02200011                                                                      PDOC20FAI TT TERRAIN-NOI 0000021,850000058,94TP040   PV              00000052
+02217011                                                                      LY-PDOC 20V IMP BUDG-NOI 0000000,450000000,39TP088   PP              00005590
+02217031                                                                      LY-PDOC 20V IMP BUDG-BLE 0000000,450000000,39TP088   PP              00002400
+02217091                                                                      LY-PDOC 20V IMP BUDG-RGE 0000000,450000000,39TP088   PP              00000000
+02218011                                                                      LY-PDOC 40V IMP BUDG-NOI 0000000,520000000,63TP088   PP              00007200
+02218031                                                                      LY-PDOC 40V IMP BUDG-BLE 0000000,520000000,46TP088   PP              00001800
+02218071                                                                      LY-PDOC 40V IMP BUDG-VRT 0000000,510000000,46TP088   PP              00001400
+02218091                                                                      LY-PDOC 40V IMP BUDG-RGT 0000000,520000000,46TP088   PP              00003980
+02218121                                                                      LY-PDOC 40V IMP BUDG-BCL 0000000,520000000,63TP088   PP              00002400
+02219011                                                                      LY-PDOC 60V IMP BUDG-NOI 0000000,610000000,81TP088   PP              00004550
+02219031                                                                      LY-PDOC 60V IMP BUDG-BLE 0000000,610000000,59TP088   PP              00000650
+02219071                                                                      LY-PDOC 60V IMP BUDG-VRT 0000000,610000000,59TP088   PP              00000000
+02219091                                                                      LY-PDOC 60V IMP BUDG-RGE 0000000,610000000,59TP088   PP              00000600
+02219121                                                                      LY-PDOC 60V IMP BUDG-BCL 0000000,610000000,81TP088   PP              00000920
+02220011                                                                      LY-PDOC 80V IMP BUDG-NOI 0000000,660000001,02TP088   PP              00004800
+02220031                                                                      LY-PDOC 80V IMP BUDG-BLE 0000000,660000000,75TP088   PP              00001180
+02220071                                                                      LY-PDOC 80V IMP BUDG-VRT 0000000,660000000,75TP088   PP              00000500
+02220091                                                                      LY-PDOC 80V IMP BUDG-RGE 0000000,660000000,75TP088   PP              00001700
+02220121                                                                      LY-PDOC 80V IMP BUDG-BCL 0000000,660000001,02TP088   PP              00001600
+02221011                                                                      LY-PDOC100V IMP BUDG-NOI 0000000,710000001,29TP088   PP              00002000
+02221031                                                                      LY-PDOC100V IMP BUDG-BLE 0000000,710000000,87TP088   PP              00000000
+02221071                                                                      LY-PDOC100V IMP BUDG-VRT 0000000,710000000,87TP088   PP              00000000
+02221091                                                                      LY-PDOC100V IMP BUDG-RGE 0000000,710000000,87TP088   PP              00000300
+02221121                                                                      LY-PDOC100V IMP BUDG-BCL 0000000,710000001,29TP088   PP              00001950
+02222011                                                                      LY-PDOC120V IMP BUDG-NOI 0000000,780000001,59TP088   PP              00000570
+02222031                                                                      LY-PDOC120V IMP BUDG-BLE 0000000,780000001,59TP088   PP              00000050
+02222091                                                                      LY-PDOC120V IMP BUDG-RGE 0000000,780000001,59TP088   PP              00000270
+02223011                                                                      LY-PDOC160V IMP BUDG-NOI 0000000,970000002,01TP088   PP              00001500
+02223031                                                                      LY-PDOC160V IMP BUDG-BLE 0000000,970000002,01TP088   PP              00000200
+02223091                                                                      LY-PDOC160V IMP BUDG-RGE 0000000,970000002,01TP088   PP              00000500
+02224241                                                                      LY-PDOC 40V IMP META-BME 0000000,930000001,32TP087   PP              00000000
+02224311                                                                      LY-PDOC 40V IMP META-ARG 0000000,950000001,32TP087   PP              00000000
+02225241                                                                      LY-PDOC 60V IMP META-BME 0000001,050000001,66TP087   PP              00000000
+02225311                                                                      LY-PDOC 60V IMP META-ARG 0000001,070000001,66TP087   PP              00000000
+02226241                                                                      LY-PDOC 80V IMP META-BME 0000001,080000001,99TP087   PP              00000000
+02226311                                                                      LY-PDOC 80V IMP META-ARG 0000001,090000001,99TP087   PP              00000000
+02228081                                                                      LY-S10PPERF A3IT IMP-INC 0000002,590000009,69TP063   PV              00000560
+02240081                                                                      BTE 50 PORTE BADGES      0000002,500000002,69ALI     ALI             00000000
+044029-20                                                                     PDOC 17X22 40V MEMPHIS   0000000,500000001,30TP100   PP              00000396
+044129-09                                                                     PDOC A4IT 40V MEMPHI     0000000,590000002,09TP100   PP              00000336
+044329-09                                                                     PDOC A3  40V MEMPHIS     0000001,040000004,31TP071   PV              00003310
+04432901-20                                                                   PDOC A3  40V MEMPHIS     0000000,000000011,84ALI     ALI             00000000
+048029-09                                                                     PDOC A3  80V MEMPHIS     0000004,260000006,37TP071   PV              00000546
+051034-03                                                                     PDOC 120V TRS PERSO PP   0000001,120000004,01TP098   PP              00000250
+051034-16                                                                     PDOC 120V TRS PERSO PP   0000001,120000004,01TP098   PP              00000110
+051034-17                                                                     PDOC 120V TRS PERSO PP   0000001,120000004,01TP098   PP              00000220
+051034-20                                                                     PDOC 120V TRS PERSO PP   0000001,120000004,01TP098   PP              00004970
+05103401-22                                                                   PDOC 120V TRS PERSO PP   0000000,000000002,01ALI     ALI             00000300
+05103404-20                                                                   L4 PDOC 120V TRSPERSO    0000001,300000029,21TP098   PP              00000030
+05103405-20                                                                   L5 PDOC 120V TRSPERSO    0000000,000000029,21TP098   PP              00000000
+05103409-20                                                                   PDOC 120V TRS PERSO PP   0000001,390000006,02ALI     ALI             00000000
+05121501                                                                      LY-INT NEU 5P IMP CF190  0000000,130000000,15RA1     IN              00017600
+05122501                                                                      LY-INT NEU 10P IMP CF190 0000000,250000000,28RA1     IN              00006600
+051226-20                                                                     PDOC 120V HAWAI          0000001,080000003,54TP098   PP              00000760
+051229-03                                                                     PDOC 120V MEMPHIS        0000000,760000001,47TP097   PP              00000200
+051229-09                                                                     PDOC 120V MEMPHIS        0000000,760000001,47TP097   PP              00001260
+051229-13                                                                     PDOC 120V MEMPHIS        0000000,760000001,47TP097   PP              00000150
+051229-14                                                                     PDOC 120V MEMPHIS        0000000,760000001,47TP097   PP              00000170
+051229-20                                                                     PDOC 120V MEMPHIS        0000000,760000001,47TP097   PP              00001290
+051231-06                                                                     PDOC 120V VERTIK         0000001,570000006,93ALI     ALI             00000000
+051626-20                                                                     PDOC 160V HAWAI PP       0000001,370000004,54TP098   PP              00000850
+051629-03                                                                     PDOC 160V MEMPHIS PP     0000000,890000002,03TP097   PP              00000310
+051629-09                                                                     PDOC 160V MEMPHIS PP     0000000,890000002,03TP097   PP              00000470
+051629-13                                                                     PDOC 160V MEMPHIS PP     0000000,890000002,03TP097   PP              00000080
+051629-14                                                                     PDOC 160V MEMPHIS PP     0000000,890000002,03TP097   PP              00000260
+051629-20                                                                     PDOC 160V MEMPHIS PP     0000000,890000002,03TP097   PP              00001390
+05162901-03                                                                   PDOC 160V MEMPHIS PP     0000000,000000000,47ALI     ALI             00000200
+05162901-13                                                                   PDOC 160V MEMPHIS PP     0000000,000000000,47ALI     ALI             00000350
+05162901-14                                                                   PDOC 160V MEMPHIS PP     0000000,000000000,47ALI     ALI             00000000
+05162901-20                                                                   PDOC 160V MEMPHIS PP     0000000,000000000,47ALI     ALI             00000000
+051631-06                                                                     PDOC 160V VERTIK PP      0000001,900000008,16ALI     ALI             00000000
+05169501                                                                      INT NEU A4 5P MANILLA    0000000,230000000,23BUHRS   IN              00006000
+05170501                                                                      INT NEU A4 10P MANILLA   0000000,320000000,34BUHRS   IN              00003200
+05172061                                                                      DIV NUM A4 RECY 10P WHI  0000000,520000000,57RA2     IN              00001500
+05174061                                                                      DIV ALP A4 RECY 20P WHI  0000001,170000001,28RA2     IN              00000000
+05177501                                                                      INT NEU A4 5P CTE 190G   0000000,130000000,15RA1     IN              00000000
+05178501                                                                      INT NEU A4 10P CTE 190G  0000000,260000000,29RA1     IN              00000000
+05184061                                                                      DIV NEU A4 5P MANILLA WH 0000000,180000000,36RA6-IM  IN              00004500
+05186061                                                                      DIV NEU A410P MANILLA WH 0000000,350000000,54RA6-IM  IN              00005000
+052029-03                                                                     PDOC 20V MEMPHIS PP      0000000,000000000,01ALI     ALI             00001000
+05223501                                                                      CO-L2 INT 6P CORA CL     0000000,460000000,93RA1     IN              00001000
+05251501                                                                      DIV A4 5P MANILLA 240G   0000000,180000000,20BUHRS   IN              00005150
+05252501                                                                      DIV A4 10P MANILLA 240G  0000000,270000000,29BUHRS   IN              00005875
+053232-03                                                                     PDOC 32V FREQU.CLASS     0000000,700000001,87TP100   PP              00000000
+053232-06                                                                     PDOC 32V FREQU.CLASS     0000000,700000001,87TP100   PP              00000000
+053232-20                                                                     PDOC 32V FREQU.CLASS     0000000,700000001,87TP100   PP              00000040
+05335501                                                                      INT NEU A4 6P PP TRANSL  0000000,500000001,25M_INDEX IN              00001480
+05336501                                                                      INT NEU A4 12P PP TRANSL 0000000,980000001,95M_INDEX IN              00000180
+05337501                                                                      INT NEU A4+ 6P PP TRANSL 0000000,530000001,45M_INDEX IN              00002900
+05338501                                                                      INT NEU A4+12P PP TRANSL 0000001,030000002,15M_INDEX IN              00000980
+05382061                                                                      L50 CV PRES A4+PP TRANSP 0000005,000000007,17TP-CATLESS TTANT        00000480
+05392-20                                                                      PINTERC A4+ 12P PVC      0000001,790000008,09ITRAC   IN              00000220
+05395501                                                                      CO-INT A4 6P CORA CL     0000000,240000000,36RA1     IN              00001500
+05396501                                                                      CO-INT A4 12P CORA CL    0000000,410000000,62RA1     IN              00019375
+05397501                                                                      CO-INT A4+  6P CORA CL   0000000,250000000,48RA1     IN              00014350
+05398501                                                                      CO-INT A4+ 12P CORA CL   0000000,460000000,89RA1     IN              00000825
+05399171                                                                      INT ALP A4 20P CTE       0000000,720000000,96RA2     IN              00000060
+054026-20                                                                     PDOC 40V HAWAI PP        0000000,540000001,72TP098   PP              00000840
+054031-06                                                                     PDOC 40V VERTIK PP       0000001,070000003,74ALI     ALI             00000000
+054034-03                                                                     PDOC 40V TRS PERSO PP    0000001,670000002,41TP100   PP              00001200
+054034-16                                                                     PDOC 40V TRS PERSO PP    0000001,670000002,41TP100   PP              00000180
+054034-17                                                                     PDOC 40V TRS PERSO PP    0000001,670000002,41TP100   PP              00002100
+054034-20                                                                     PDOC 40V TRS PERSO PP    0000001,670000002,41TP100   PP              00003540
+054034-22                                                                     PDOC 40V TRS PERSO PP    0000001,670000002,41TP100   PP              00000000
+05403401-22                                                                   PDOC 40V TRS PERSO PP    0000000,000000000,81ALI     ALI             00000000
+05403404-20                                                                   L4 PDOC 40V TRS PERSO    0000002,150000014,80TP100   PP              00000075
+05403405-20                                                                   L5 PDOC 40V TRS PERSO    0000000,000000014,80 TP100   PP             00000000
+05440501                                                                      INT NEU A4 6P PP COL     0000000,350000000,39ALI     ALI     FIDUCI  00000000
+05441501                                                                      INT NEU A4 8P PP COL     0000000,570000000,46ALI     ALI     FIDUCI  00000000
+05442501                                                                      INT NEU A4 10P PP COL    0000000,610000000,57ALI     ALI     FIDUCI  00000000
+05443501                                                                      INT NEU A4 12P PP COL    0000000,640000000,67ALI     ALI     FIDUCI  00000000
+056027-20                                                                     PDOC 60V ASTRALIS PP     0000000,870000002,25ALI     ALI             00000000
+056029-03                                                                     PDOC 60V MEMPHIS PP      0000000,000000000,10ALI     ALI             00000000
+056031-20                                                                     PDOC 60V VERTIK PP       0000000,000000002,12ALI     ALI             00000000
+056040-07                                                                     PDOC 60V EPICEA PP       0000000,860000002,40TP100   PP              00006435
+05604002-07                                                                   PDOC 60V EPICEA CDF PP   0000000,000000003,30TP100   PP              00000135
+056042-20                                                                     PDOC 60V NOMADE -ASS     0000001,010000002,20TP071   PV              00001200
+058026-20                                                                     PDOC 80V HAWAI PP        0000000,780000002,45TP098   PP              00001288
+058032-03                                                                     PDOC 80V PROLINE PP      0000001,120000002,41TP100   PP              00000010
+058032-14                                                                     PDOC 80V PROLINE PP      0000001,120000002,41TP100   PP              00000000
+058032-20                                                                     PDOC 80V PROLINE PP      0000001,120000002,41TP100   PP              00000480
+058032-22                                                                     PDOC 80V PROLINE PP      0000001,120000002,41TP100   PP              00000000
+058034-03                                                                     PDOC 80V TRS PERSO PP    0000000,840000003,44TP098   PP              00000576
+058034-16                                                                     PDOC 80V TRS PERSO PP    0000000,840000003,44TP098   PP              00000072
+058034-17                                                                     PDOC 80V TRS PERSO PP    0000000,840000003,44TP098   PP              00000732
+058034-20                                                                     PDOC 80V TRS PERSO PP    0000000,840000003,44TP098   PP              00007848
+05803401-22                                                                   PDOC 80V TRS PERSO PP    0000000,000000002,89ALI     ALI             00000000
+05803404-20                                                                   L4 PDOC 80V TRS PERSO    0000000,570000022,04TP098   PP              00000130
+05803405-20                                                                   L5 PDOC 80V TRS PERSO    0000000,000000022,04TP098   PP              00000000
+059034-20                                                                     L2 PDOC 80V TRS PERSO    0000001,810000005,15TP098   PP      GALEC   00000000
+05903401-20                                                                   L2 PDOC 80V TRS PERSO    0000000,290000010,30TP098   PP      GALEC   00000000
+05934108-20                                                                   PDOC 60V GRAPHYK4        0000000,770000002,68TP100   PP              00003360
+05954108-20                                                                   PDOC AM 20V GRAPHYK      0000001,800000006,00TP035   PP              00000310
+061815-20                                                                     CO-PDOC PERS 40V COR     0000000,660000000,97TP098   PP      PROVER  00001120
+061816-20                                                                     CO-PDOC PERS 60V COR     0000000,800000001,20TP098   PP      PROVER  00001020
+061817-20                                                                     CO-PDOC PERS 80V COR     0000000,880000001,31TP098   PP      PROVER  00001332
+061818-20                                                                     CO-PDOC PERS100V COR     0000001,070000001,66TP098   PP      PROVER  00009912
+061833-20                                                                     CO-PDOC PERS 80V COR     0000001,230000001,21ALI     ALI     PROVER  00000000
+064977-20                                                                     CO-L2 PDOC  80V COR      0000002,430000002,62TP098   PP      PROVER  00001280
+086057-20                                                                     PDOC 60V DUNE PP         0000000,840000001,95ALI     ALI             00000000
+086058-20                                                                     PDOC 60V ANGOON PP       0000000,700000002,01TP100   PP              00002715
+086059-20                                                                     PDOC 60V BLOOM PP        0000000,860000001,97TP100   PP              00000225
+086060-20                                                                     PDOC 60V POPPIES PP      0000000,860000001,97TP100   PP              00000465
+089046-20                                                                     CO-PDOC PERS160V COR     0000001,460000002,37TP098   PP      PROVER  00007770
+09006931                                                                      PDOC 160V BASIC PP-ASS   0000000,830000002,51TP085   PP              00000000
+09025931                                                                      PDOC 40V FLEXIPRATIC-ASS 0000000,690000001,84ALI     ALI             00000000
+09026931                                                                      PDOC 60V FLEXIPRATIC-ASS 0000000,860000002,39ALI     ALI             00000000
+09027932                                                                      PDOC 180V BASIC PP-ASS   0000000,930000001,02TP085   PP              00000000
+09028931                                                                      PDOC 200V BASIC PP-ASS   0000001,030000003,22TP085   PP              00000000
+09056081                                                                      ETUI PASSEP S/BLIST PVC  0000000,480000001,69TP-ECP  SS TTANT        00001360
+09057081                                                                      ETUI CTE BUS S/BLIST PVC 0000000,740000001,69TP-ECP  SS TTANT        00000960
+09059081                                                                      ETUISPL MULT S/BLIST PVC 0000000,390000001,69TP-ECP  SS TTANT        00000520
+09060081                                                                      ETUI P COND S/BLIST PVC  0000000,450000001,69TP-ECP  SS TTANT        00002560
+09065931                                                                      PDOC 80V STAND'UPCOT-ASS 0000001,210000003,53ALI     ALI             00000000
+09066931                                                                      PDOC 100V ST OPALINE-ASS 0000001,270000004,59TP085   PP              00000240
+09067931                                                                      PDOC 120V STANDUPCOT-ASS 0000001,430000004,70ALI     ALI             00000000
+09069-20                                                                      PDOC 160V ST OPALINE-ASS 0000002,980000006,57TP085   PP              00003540
+09071-20                                                                      PDOC 200V ST OPALINE-ASS 0000003,250000007,64TP085   PP              00004420
+09079081                                                                      ETUI CTE GRISE S/BLI PVC 0000000,460000001,69TP-ECP  SS TTANT        00001180
+09080081                                                                      ETUI C GRIS EU S/BLI PVC 0000000,580000001,39TP-ECP  SS TTANT        00000900
+09084081                                                                      ETUI 10 CTE S/BLI PVC    0000001,820000003,15TP-ECP  SS TTANT        00001220
+09111932                                                                      L2 PDOC 60+20V FLEXI-ASS 0000001,040000002,39ALI     ALI             00000000
+09114931                                                                      PDOC AM 40V FLEXAM-ASS   0000002,570000006,89TP035   PP              00000940
+09155                                                                         PDOC160V+INT OPALINE-ASS 0000003,370000007,80TP085   PP              00000000
+09156931                                                                      PDOC 60V PERSO REVER-ASS 0000001,880000004,27ALI     ALI             00000000
+09165931                                                                      L2+1 PDOC 80V BASIC-ASS  0000001,640000001,86TP085   PP              00000000
+09176931                                                                      L2 PDOC 60V BASIC-ASS    0000001,010000004,14ALI     ALI             00000000
+09181931                                                                      PDOC100+100V STAND'U-ASS 0000001,770000005,10ALI     ALI             00000000
+09188931                                                                      PDOC                     0000000,940000002,21TP088   PP              00000000
+09189931                                                                      PDOC                     0000001,020000002,86TP088   PP              00002780
+09190931                                                                      PDOC                     0000001,200000003,57TP088   PP              00002420
+09242931                                                                      PDOC 120V BASIC-ASS      0000000,650000001,96TP085   PP              00000000
+09243931                                                                      PDOC 160V BASIC-ASS      0000000,830000000,94TP085   PP              00000000
+09252931                                                                      AU-PDOCPERS 20V AUCH-ASS 0000000,600000000,68TP087   PP              00000000
+09253931                                                                      AU-PDOCPERS 40V AUCH-ASS 0000000,740000000,82TP087   PP              00000000
+09254931                                                                      AU-PDOCPERS 60V AUCH-ASS 0000000,950000001,02TP087   PP              00000000
+09255931                                                                      AU-PDOCPERS 80V AUCH-ASS 0000001,090000001,09TP087   PP              00000000
+09256931                                                                      AU-PDOCPERS120V AUCH-ASS 0000001,180000001,22TP085   PP              00000000
+09257931                                                                      AU-PDOCPERS160V AUCH-ASS 0000001,450000001,49TP085   PP              00000000
+09258931                                                                      AU-PDOCPERS200V AUCH-ASS 0000001,750000001,79TP085   PP              00000000
+09285931                                                                      SU-PDOC20V U PP TRS-ASS  0000000,720000000,66TP087   PP              00006480
+09286931                                                                      SU-PDOC40V U PP TRS-ASS  0000000,800000000,85TP087   PP              00003780
+09287931                                                                      SU-PDOC60V U PP TRS-ASS  0000000,920000000,96TP087   PP              00001300
+09288931                                                                      SU-PDOC 60V U PP OPA-ASS 0000000,940000000,96TP087   PP              00003940
+09289                                                                         SU-PDOC 80V DELHAIZ-ASS  0000000,860000001,15TP085   PP      SYSTEM  00002000
+09289931                                                                      SU-PDOC PERS 80V U-ASS   0000000,830000001,18TP085   PP              00027580
+09290931                                                                      SU-PDOC PERS 120V U-ASS  0000001,100000001,54TP085   PP              00006570
+09291-20                                                                      SU-L2 PDOC PERS 80V U PP 0000001,820000002,20TP085   PP      SYSTEM  00000000
+096058-20                                                                     PDOC 60V TRIBAL PP       0000001,300000002,06TP100   PP              00002520
+1223-20                                                                       LC-PDOC PERSO 40V ESQ PP 0000000,000000000,10TP096   PP      GALEC   00000000
+1224-20                                                                       LC-PDOC PERSO 60V ESQ PP 0000000,000000000,10TP096   PP      GALEC   00000000
+1225-20                                                                       LC-PDOC PERSO 80V ESQ PP 0000000,000000000,10TP096   PP      GALEC   00000000
+1226-20                                                                       LC-PDOC PERSO 120V ESQ P 0000000,000000000,10TP096   PP      GALEC   00000000
+1229-20                                                                       LC-PDOC 60V ECO+ PP OPA- 0000000,000000000,10TP095   PP      GALEC   00000000
+141161-20                                                                     CO-PDOC PERS 40V MET-ASS 0000001,170000000,94TP098   PP      PROVER  00000920
+141162-20                                                                     CO-PDOC PERS MET 60V-ASS 0000000,130000001,12TP098   PP      PROVER  00000465
+141163-20                                                                     CO-PDOC PERS 80V MET-ASS 0000000,140000001,24TP098   PP      PROVER  00000828
+141164-20                                                                     CO-PDOC PERS100V MET-ASS 0000000,180000001,41TP098   PP      PROVER  00000684
+141165-20                                                                     CO-PDOC PERS160V MET-ASS 0000000,270000001,98TP098   PP      PROVER  00001030
+141696-20                                                                     CO-L2 PDOC 80V MET-ASS   0000000,290000002,48TP098   PP      PROVER  00000000
+150229-03                                                                     PDOC 200V MEMPHIS        0000001,090000002,54TP097   PP              00000320
+150229-09                                                                     PDOC 200V MEMPHIS        0000001,090000002,54TP097   PP              00000380
+150229-13                                                                     PDOC 200V MEMPHIS        0000001,090000002,54TP097   PP              00000100
+150229-14                                                                     PDOC 200V MEMPHIS        0000001,090000002,54TP097   PP              00000190
+150229-20                                                                     PDOC 200V MEMPHIS        0000001,090000002,54TP097   PP              00001890
+15022901-03                                                                   PDOC 200V MEMPHIS        0000000,000000000,58ALI     ALI             00000000
+151029-03                                                                     PDOC 100V MEMPHIS        0000000,680000001,31TP097   PP              00000220
+151029-09                                                                     PDOC 100V MEMPHIS        0000000,680000001,31TP097   PP              00000260
+151029-13                                                                     PDOC 100V MEMPHIS        0000000,680000001,31TP097   PP              00000230
+151029-14                                                                     PDOC 100V MEMPHIS        0000000,680000001,31TP097   PP              00000150
+151029-20                                                                     PDOC 100V MEMPHIS        0000000,680000001,31TP097   PP              00002750
+151029-21                                                                     PDOC 100V MEMPHIS        0000000,680000001,31TP097   PP              00000750
+151044-03                                                                     PDOC 100V JUMP PP        0000000,990000002,00TP100   PP              00000030
+151044-06                                                                     PDOC 100V JUMP PP        0000000,990000002,00TP100   PP              00000000
+151044-13                                                                     PDOC 100V JUMP PP        0000000,990000002,00TP100   PP              00000050
+151044-14                                                                     PDOC 100V JUMP PP        0000000,990000002,00TP100   PP              00000000
+151044-20                                                                     PDOC 100V JUMP PP        0000000,990000002,00TP100   PP              00000290
+152029-03                                                                     PDOC 20V MEMPHIS PP      0000000,320000000,64TP095   PP              00000050
+152029-09                                                                     PDOC 20V MEMPHIS PP      0000000,320000000,64TP095   PP              00000310
+152029-13                                                                     PDOC 20V MEMPHIS PP      0000000,320000000,64TP095   PP              00000000
+152029-14                                                                     PDOC 20V MEMPHIS PP      0000000,320000000,64TP095   PP              00000010
+152029-20                                                                     PDOC 20V MEMPHIS PP      0000000,320000000,64TP095   PP              00001710
+152029-21                                                                     PDOC 20V MEMPHIS PP      0000000,320000000,64TP095   PP              00000350
+15202901-09                                                                   PDOC 20V MEMPHIS PP      0000000,000000000,22ALI     ALI             00000000
+154026-03                                                                     PDOC 40V HAWAI PP        0000000,540000001,72TP098   PP              00000310
+154026-06                                                                     PDOC 40V HAWAI PP        0000000,540000001,72TP098   PP              00001040
+154026-17                                                                     PDOC 40V HAWAI PP        0000000,540000001,72TP098   PP              00000330
+154026-20                                                                     PDOC 40V HAWAI PP        0000000,540000001,72TP098   PP              00000080
+154029-03                                                                     PDOC 40V MEMPHIS PP      0000000,390000000,76TP095   PP              00000240
+154029-09                                                                     PDOC 40V MEMPHIS PP      0000000,390000000,76TP095   PP              00000480
+154029-13                                                                     PDOC 40V MEMPHIS PP      0000000,390000000,76TP095   PP              00000300
+154029-14                                                                     PDOC 40V MEMPHIS PP      0000000,390000000,76TP095   PP              00000130
+154029-20                                                                     PDOC 40V MEMPHIS PP      0000000,390000000,76TP095   PP              00002710
+154029-21                                                                     PDOC 40V MEMPHIS PP      0000000,390000000,76TP095   PP              00001860
+15402902-09                                                                   PDOC 40V MEMPHIS PP      0000000,000000002,71ALI     ALI             00001200
+154044-03                                                                     PDOC 40V JUMP PP         0000000,600000001,20TP100   PP              00000500
+154044-06                                                                     PDOC 40V JUMP PP         0000000,600000001,20TP100   PP              00000150
+154044-13                                                                     PDOC 40V JUMP PP         0000000,600000001,20TP100   PP              00000300
+154044-14                                                                     PDOC 40V JUMP PP         0000000,600000001,20TP100   PP              00000310
+154044-20                                                                     PDOC 40V JUMP PP         0000000,600000001,20TP100   PP              00000320
+156029-03                                                                     PDOC 60V MEMPHIS PP      0000000,500000000,89TP095   PP              00000310
+156029-09                                                                     PDOC 60V MEMPHIS PP      0000000,500000000,89TP095   PP              00000410
+156029-13                                                                     PDOC 60V MEMPHIS PP      0000000,500000000,89TP095   PP              00000160
+156029-14                                                                     PDOC 60V MEMPHIS PP      0000000,500000000,89TP095   PP              00000140
+156029-20                                                                     PDOC 60V MEMPHIS PP      0000000,500000000,89TP095   PP              00002790
+156029-21                                                                     PDOC 60V MEMPHIS PP      0000000,500000000,89TP095   PP              00001910
+15602901-03                                                                   PDOC 60V MEMPHIS PP      0000000,000000000,23ALI     ALI             00000000
+15602902-20                                                                   PDOC 60V MEMPHIS PP      0000000,000000003,53ALI     ALI             00002000
+158026-03                                                                     PDOC 80V HAWAI PP        0000000,760000002,45TP098   PP              00000020
+158026-06                                                                     PDOC 80V HAWAI PP        0000000,760000002,45TP098   PP              00000040
+158026-17                                                                     PDOC 80V HAWAI PP        0000000,760000002,45TP098   PP              00000060
+158029-03                                                                     PDOC 80V MEMPHIS PP      0000000,570000001,07TP095   PP              00000160
+158029-09                                                                     PDOC 80V MEMPHIS PP      0000000,570000001,07TP095   PP              00000390
+158029-13                                                                     PDOC 80V MEMPHIS PP      0000000,570000001,07TP095   PP              00000150
+158029-14                                                                     PDOC 80V MEMPHIS PP      0000000,570000001,07TP095   PP              00000180
+158029-20                                                                     PDOC 80V MEMPHIS PP      0000000,570000001,07TP095   PP              00002390
+158029-21                                                                     PDOC 80V MEMPHIS PP      0000000,570000001,07TP095   PP              00001290
+15802901-20                                                                   PDOC 80V MEMPHIS PP      0000000,000000000,25ALI     ALI             00000000
+158044-03                                                                     PDOC 80V JUMP PP         0000000,830000001,75TP100   PP              00000010
+158044-06                                                                     PDOC 80V JUMP PP         0000000,830000001,75TP100   PP              00000000
+158044-13                                                                     PDOC 80V JUMP PP         0000000,830000001,75TP100   PP              00000060
+158044-14                                                                     PDOC 80V JUMP PP         0000000,830000001,75TP100   PP              00000000
+158044-20                                                                     PDOC 80V JUMP PP         0000000,830000001,75TP100   PP              00000080
+170-20                                                                        LC-PDOC 120V ESQ PP      0000001,280000001,00ALI     ALI     GALEC   00000200
+172106-20                                                                     INT NEU A4 6P PP COL     0000000,390000000,97M_INDEX IN              00011750
+172116-20                                                                     INT NEU A4+ 6P PP COL    0000000,400000000,36M_INDEX IN              00001975
+172155-20                                                                     INT NEU A4 5P PP COL     0000000,370000000,31M_INDEX IN              00000000
+172165-20                                                                     INT NEU A4+ 5P PP COL    0000000,380000001,64M_INDEX IN              00000000
+213-47-09                                                                     JM-PDOC 20V PVC          0000000,570000002,32TP087   PP      JM BRU  00000600
+213-84-09                                                                     JM-PDOC 60V PVC          0000000,940000005,34TP087   PP      JM BRU  00000160
+213-86-20                                                                     JM-PDOC 20V PVC          0000000,620000002,32TP087   PP      JM BRU  00000510
+213-96-09                                                                     JM-PDOC 40V PVC          0000000,710000003,93TP087   PP      JM BRU  00000925
+214-02-20                                                                     JM-PDOC 60V PVC          0000000,880000005,34TP087   PP      JM BRU  00000355
+214-28-20                                                                     JM-PDOC 40V PVC          0000000,760000003,93TP087   PP      JM BRU  00000525
+214-29-09                                                                     JM-PDOC 80V PVC          0000001,040000007,04TP087   PP      JM BRU  00000075
+214-36-20                                                                     JM-PDOC 80V PVC          0000001,090000007,04TP087   PP      JM BRU  00000240
+214-40-09                                                                     JM-PDOC 100V PVC         0000001,300000008,76TP087   PP      JM BRU  00000355
+214-60-20                                                                     JM-PDOC 100V PVC         0000001,350000008,76TP087   PP      JM BRU  00000495
+23660601-20                                                                   CS-PDOCPERS 100V CAS     0000001,200000001,57TP098   PP      E M C   00001212
+23660801-20                                                                   CS-PDOCPERS 120V CAS     0000001,340000001,80TP098   PP      E M C   00001320
+23662301-20                                                                   CS-PDOC PERS 60V CAS     0000001,070000001,24TP098   PP      E M C   00002040
+23662501-20                                                                   CS-PDOC PERS 80V CAS     0000001,030000001,41TP098   PP      E M C   00001044
+250604-09                                                                     PDOC 40V PERSO PP        0000000,590000002,33TP098   PP              00000636
+250608-01                                                                     PDOC 80V PERSO PP        0000000,850000003,47TP098   PP              00000000
+250608-09                                                                     PDOC 80V PERSO PP        0000000,850000003,47TP098   PP              00000396
+294859-20                                                                     CS-PDOCPERS 140V CAS     0000001,440000001,89TP098   PP      E M C   00000000
+29485901-20                                                                   CS-PDOCPERS 140V CAS     0000001,440000001,89TP098   PP      E M C   00000078
+320010-20                                                                     PDOC 100V PP OPAQUE      0000000,610000000,92TP095   PP              00032250
+320012-20                                                                     PDOC 120V PP OPAQUE      0000000,770000001,07TP097   PP              00027083
+320014-20                                                                     PDOC 140V PP OPAQUE      0000000,800000001,33TP097   PP              00001480
+320016-20                                                                     PDOC 160V PP OPAQUE      0000000,820000001,44TP097   PP              00007065
+320018-20                                                                     PDOC 180V PP OPAQUE      0000001,010000001,68TP097   PP              00000900
+320020-20                                                                     PDOC 20V  PP OPAQUE      0000000,260000001,34TP095   PP              00000100
+320040-20                                                                     PDOC 40V PP OPAQUE       0000000,340000000,55TP097   PP              00022170
+320042                                                                        L2 PDOC 40V BASIC PP     0000000,740000000,10TP095   PP              00000000
+320060-20                                                                     PDOC 60V PP OPAQUE       0000000,440000000,64TP097   PP              00030060
+320062                                                                        L2 PDOC 60+20V BASIC     0000000,520000001,36TP095   PP              00000000
+320063-20                                                                     PDOC 60V PP OPAQUE       0000000,480000002,43TP097   PP              00000090
+320080-20                                                                     PDOC 80V PP OPAQUE       0000000,530000000,74TP095   PP              00037050
+320100                                                                        L2 PDOC 80+20V BASIC     0000000,590000001,78TP095   PP              00000250
+320102                                                                        PDOC100+20V STANDUP      0000001,460000003,85TP085   PP              00000350
+320124                                                                        PDOC120+40V BASIC        0000000,850000002,45TP095   PP              00000000
+320161                                                                        PDOC 160V+INT STAND      0000002,290000005,34TP085   PP              00000000
+320164                                                                        PDOC160+40V BASIC        0000001,020000003,14TP097   PP              00000000
+320180-20                                                                     L2 PDOC 80V PP-ASS       0000000,000000002,36ALI     ALI             00000000
+320201-03                                                                     PDOC 200V PP OPAQUE      0000001,080000001,73TP097   PP              00000110
+320201-09                                                                     PDOC 200V PP OPAQUE      0000001,080000001,73TP097   PP              00000810
+320201-13                                                                     PDOC 200V PP OPAQUE      0000001,080000001,73TP097   PP              00000170
+320201-14                                                                     PDOC 200V PP OPAQUE      0000001,080000001,73TP097   PP              00000030
+320201-20                                                                     PDOC 200V PP OPAQUE      0000001,080000001,73TP097   PP              00013820
+320210-20                                                                     PDOC 100V PP OPAQUE      0000000,700000004,22TP095   PP              00000600
+320222                                                                        PDOC 100+100V STAND      0000001,800000004,34TP085   PP              00003940
+320260                                                                        L2 PDOC 60V BASIC PP     0000000,910000002,16TP095   PP              00000000
+320410-03                                                                     PDOC 100V PP OPAQUE      0000000,590000000,92TP095   PP              00000200
+320410-09                                                                     PDOC 100V PP OPAQUE      0000000,590000000,92TP095   PP              00000150
+320410-13                                                                     PDOC 100V PP OPAQUE      0000000,590000000,92TP095   PP              00000280
+320410-14                                                                     PDOC 100V PP OPAQUE      0000000,590000000,92TP095   PP              00000490
+320412-03                                                                     PDOC 120V PP OPAQUE      0000000,670000001,07TP097   PP              00000260
+320412-09                                                                     PDOC 120V PP OPAQUE      0000000,670000001,07TP097   PP              00001080
+320412-13                                                                     PDOC 120V PP OPAQUE      0000000,670000001,07TP097   PP              00000070
+320412-14                                                                     PDOC 120V PP OPAQUE      0000000,670000001,07TP097   PP              00000050
+320414-09                                                                     PDOC 140V PP OPAQUE      0000000,800000001,33TP097   PP              00000010
+320416-03                                                                     PDOC 160V PP OPAQUE      0000000,870000001,44TP097   PP              00003870
+320416-09                                                                     PDOC 160V PP OPAQUE      0000000,870000001,44TP097   PP              00003310
+320416-13                                                                     PDOC 160V PP OPAQUE      0000000,870000001,44TP097   PP              00000030
+320416-14                                                                     PDOC 160V PP OPAQUE      0000000,870000001,44TP097   PP              00000040
+320420-03                                                                     PDOC 20V PP OPAQUE       0000000,300000000,46TP097   PP              00000180
+320420-09                                                                     PDOC 20V PP OPAQUE       0000000,300000000,46TP097   PP              00000210
+320420-13                                                                     PDOC 20V PP OPAQUE       0000000,300000000,46TP097   PP              00000500
+320420-14                                                                     PDOC 20V PP OPAQUE       0000000,300000000,46TP097   PP              00000270
+320420-20                                                                     PDOC 20V PP OPAQUE       0000000,300000000,46TP097   PP              00002100
+320440-03                                                                     PDOC 40V PP OPAQUE       0000000,360000000,55TP097   PP              00001400
+320440-09                                                                     PDOC 40V PP OPAQUE       0000000,360000000,55TP097   PP              00002930
+320440-13                                                                     PDOC 40V PP OPAQUE       0000000,360000000,55TP097   PP              00001140
+320440-14                                                                     PDOC 40V PP OPAQUE       0000000,360000000,55TP097   PP              00000980
+320460-03                                                                     PDOC 60V PP OPAQUE       0000000,480000000,64TP097   PP              00000530
+320460-09                                                                     PDOC 60V PP OPAQUE       0000000,480000000,64TP097   PP              00002120
+320460-13                                                                     PDOC 60V PP OPAQUE       0000000,480000000,64TP097   PP              00000230
+320460-14                                                                     PDOC 60V PP OPAQUE       0000000,480000000,64TP097   PP              00000730
+320480-03                                                                     PDOC 80V PP OPAQUE       0000000,550000000,74TP097   PP              00000670
+320480-09                                                                     PDOC 80V PP OPAQUE       0000000,550000000,74TP097   PP              00001100
+320480-13                                                                     PDOC 80V PP OPAQUE       0000000,550000000,74TP097   PP              00000470
+320480-14                                                                     PDOC 80V PP OPAQUE       0000000,550000000,74TP097   PP              00000520
+321038-40                                                                     PDOC 80V 17X22 CROSS     0000001,220000002,19TP100   PP              00000000
+32113801-40                                                                   PDOC 100V CROSSLINE      0000001,520000003,37TP098   PP              00002050
+32123801-40                                                                   PDOC 120V CROSSLINE      0000001,120000003,70TP098   PP              00001830
+321438-40                                                                     PDOC 140V CROSSLINE      0000001,300000004,01ALI     ALI             00000000
+32143801-40                                                                   PDOC 140V CROSSLINE      0000000,000000004,01TP098   PP              00000250
+321638-40                                                                     PDOC 160V CROSSLINE      0000008,480000004,67ALI     ALI             00000000
+32163801-40                                                                   PDOC 160V CROSSLINE      0000001,370000005,00TP098   PP              00000970
+322038-40                                                                     PDOC 200V CROSSLINE      0000009,040000005,98ALI     ALI             00000000
+32203801-40                                                                   PDOC 200V CROSSLINE      0000001,680000006,40TP098   PP              00001152
+322040-20                                                                     PDOC 40V TRANSP PP       0000000,470000002,00TP098   PP              00000140
+32204001-20                                                                   PDOC 40V TRANSP PP       0000000,580000001,67ALI     ALI             00000000
+32204009-20                                                                   PDOC 40V TRANSP PP       0000000,000000002,28TP098   PP              00000000
+322060-20                                                                     PDOC 60V TRANSP PP       0000000,590000002,40TP098   PP              00000660
+32206008-20                                                                   PDOC 60V TRANSP PP       0000000,000000003,43TP098   PP              00000000
+32206009-20                                                                   PDOC 60V TRANSP PP       0000000,750000002,28ALI     ALI             00000000
+32208001-17                                                                   PDOC 80V TRANSP PP       0000000,720000003,09TP098   PP              00000000
+32208001-20                                                                   PDOC 80V TRANSP PP       0000000,720000003,09TP098   PP              00001368
+32208009-20                                                                   PDOC 80V TRANSP PP       0000000,000000002,58TP098   PP              00000000
+322100-20                                                                     PDOC 100V TRANSP PP      0000000,900000003,58TP098   PP              00000250
+32210009-20                                                                   PDOC 100V TRANSP PP      0000000,000000003,86TP098   PP              00000000
+322110-20                                                                     L3 PDOC100+40V TRANSP    0000002,380000003,35TP098   PP              00016800
+32211001-20                                                                   L3 PDOC100+40V TRANSP    0000000,000000000,10TP098   PP              00000000
+322115-20                                                                     PDOC AM 30V TRANSPARENCE 0000000,000000006,00TP035   PP              00000000
+322120-20                                                                     PDOC 120V TRANSP PP      0000001,010000004,02TP098   PP              00000860
+322120E-20                                                                    PDOC 120V TRANSP PP      0000001,130000004,52ALI     ALI             00000000
+32212009-20                                                                   PDOC 120V TRANSP PP      0000000,000000004,52TP098   PP              00000000
+322142                                                                        PDOC AM 40V+INT FLEX     0000002,780000006,14TP035   PP              00000000
+322144                                                                        PDOC AM 40+40V FLEXA     0000002,900000006,83TP035   PP              00000180
+322170-20                                                                     L2 PDOC160+40V TRANSP    0000001,980000003,21TP098   PP              00000000
+32217050-20                                                                   L2 PDOC160+40V TRANSP    0000002,140000006,17TP098   PP              00000000
+32403801-40                                                                   PDOC 40V CROSSLINE       0000000,450000001,88TP098   PP              00002520
+324180-20                                                                     L2 PDOC 80V PP TRS       0000001,140000002,00TP095   PP              00000000
+326038-40                                                                     PDOC 60V CROSSLINE       0000000,880000002,26ALI     ALI             00000000
+32603801-40                                                                   PDOC 60V CROSSLINE       0000000,580000002,26TP098   PP              00003690
+326160-20                                                                     PDOC 60V 24X32 TRANSP    0000000,000000003,70ALI     ALI             00000000
+328138-40                                                                     PDOC 80V CROSSLINE       0000000,680000002,88ALI     ALI             00001344
+32813801-40                                                                   PDOC 80V CROSSLINE       0000000,680000002,88TP098   PP              00002220
+328238-40                                                                     PDOC 60V 24X32 CROS      0000000,970000002,77ALI     ALI             00000255
+332060-20                                                                     PDOC 60V TRANSPSPERS     0000000,000000001,60ALI     ALI             00000000
+338-20                                                                        LC-PDOC 60V ECO+ PP OPA- 0000000,490000000,50TP095   PP      GALEC   00003960
+406317-20                                                                     AU-L3 PDOC 120V POUC     0000002,240000014,56TP088   PP              00000000
+44100901                                                                      CHEM FACILITY'COM PP-ASS 0000000,800000001,12TP092   PP              00000350
+457405-20                                                                     AU-PDOC 80V POUCE        0000000,560000004,77TP088   PP      AUCHAN  00001350
+463566-20                                                                     AU-PDOC 160V POUCE       0000000,910000005,50TP085   PP              00001080
+484407-20                                                                     AU-PDOC 120V POUCE       0000000,710000004,85TP088   PP      AUCHAN  00001280
+484515-20                                                                     AU-PDOC 200V POUCE       0000001,100000006,84TP085   PP      AUCHAN  00002330
+504744-13                                                                     DA-PDOC 40V PPOPA        0000000,000000002,84ALI     ALI     LE LYS  00000000
+504790-06                                                                     DA-PDOC 60V CLUB + P.ETI 0000000,000000002,71ALI     ALI     LE LYS  00000000
+506015-20                                                                     P-DOC CHIPIE A4 PP 60V   0000000,000000002,79ALI     ALI             00000000
+533854-20                                                                     AU-PDOC 60V POUCE        0000000,520000002,25TP088   PP      AUCHAN  00002340
+557495-20                                                                     INT NEU 17x22 6P CL 3/10 0000000,390000000,67BUHRS   IN              00005840
+570741-20                                                                     INT NEU A4 10P CF160G 23 0000000,220000000,10RA1     IN              00000000
+571879-20                                                                     INT NEU A4 10P CF 225G 2 0000000,320000000,10RA1     IN              00000000
+574741-20                                                                     INT NEU A4 5P CF160G 23T 0000000,120000000,10RA1     IN              00000000
+575879-20                                                                     INT NEU A4 5P CF 225G    0000000,200000000,10RA1     IN              00000000
+577509-20                                                                     INT NEU 17x22 6P CL3/11  0000000,390000000,29BUHRS   IN              00001760
+581127-20                                                                     AU-PDOC 40V PERS AUC     0000000,000000000,60ALI     ALI     AUCHAN  00000000
+591553-20                                                                     AU-L3PDOC 80VPPPERS      0000002,700000004,25TP087   PP      AUCHAN  00000000
+6005-20                                                                       BX-INT NEU A4 5P PP COL  0000000,260000000,74M_INDEX IN              00019800
+600596-20                                                                     LY-INT NEU A4 5P PP COL  0000000,260000000,74M_INDEX IN              00002910
+6006-20                                                                       BX-INT NEU A4 6P PP COL  0000000,290000000,88M_INDEX IN              00000640
+60609209-20                                                                   PDOC 60V CIT PP 2006     0000000,830000003,20ALI     ALI             00000360
+62022502                                                                      LY-INT NEU A4 12P IMP CL 0000000,430000000,47RA1     IN              00048400
+62032501                                                                      INT NEU A4 12P CF 250G   0000000,330000000,44BUHRS   IN              00017180
+62036501                                                                      INT NEU A4 6P CF 250G    0000000,210000000,27BUHRS   IN              00029240
+62036941                                                                      INT NEU A4 6P CF 250G    0000000,220000000,37BUHRS   IN              00000100
+62041501                                                                      INT NEU A4 10P CF+MYLAR  0000000,710000000,78BUHRS   IN              00000000
+62042943                                                                      INT NEU A4 12P CF+MYLAR  0000000,720000002,33BUHRS   IN              00003200
+62046943                                                                      INT NEU A4 6P CF+MYLAR   0000000,430000001,27BUHRS   IN              00002050
+62076502                                                                      LY-INT NEU A4 6P IMP CL  0000000,220000000,34RA1     IN              00026400
+620822-20                                                                     L2 INT NEU A4+12P CL5/10 0000003,310000006,82BUHRS   IN              00000060
+62082941                                                                      INT NEU A4+ 12P CL 5/10  0000000,710000002,66BUHRS   IN              00020440
+62083941                                                                      INT NEU A4 6P CL 5/10    0000000,430000000,84BUHRS   IN              00000820
+62084941                                                                      INT NEU A4 12P CL 5/10   0000000,700000001,56BUHRS   IN              00002320
+620862-20                                                                     L2 INT NEU A4+ 6P CL5/10 0000000,750000003,84BUHRS   IN              00000700
+62086941                                                                      INT NEU A4+ 6P CL 5/10   0000000,420000001,51BUHRS   IN              00017740
+62236502                                                                      L2 INT NEU A4 6P CF250G  0000000,280000000,66BUHRS   IN              00013250
+62236503                                                                      L2 INT NEU A4 6P CF250G  0000000,280000000,66BUHRS   IN              00000000
+625596-20                                                                     LY-INT NUMA4 5P MYL INC  0000000,210000001,12RA6-IM  IN      LYRECO  00002500
+625696-20                                                                     LY-INT NUMA4 6P MYL INC  0000000,240000001,35RA6-IM  IN      LYRECO  00002500
+626096-20                                                                     LY-INT NUM A4 10P MYLINC 0000000,360000002,25RA6-IM  IN      LYRECO  00001850
+626296-20                                                                     LY-INT NUM A4 12P MYLINC 0000000,400000002,70RA6-IM  IN      LYRECO  00009600
+641746-20                                                                     AU-PDOC 40V POUCE        0000000,440000001,75TP088   PP      AUCHAN  00002910
+703005-20                                                                     CO-PDOC 40V WINNY PP     0000000,350000000,46TP095   PP      PROVER  00001740
+703006-20                                                                     CO-PDOC 60V WINNY PP     0000000,460000000,56TP095   PP      PROVER  00001950
+703007-20                                                                     CO-PDOC 80V WINNY PP     0000000,530000000,67TP097   PP      PROVER  00001410
+703008-20                                                                     CO-PDOC 120V WINNY PP    0000000,780000000,91TP097   PP      PROVER  00001940
+703009-20                                                                     CO-PDOC 140V WINNY PP    0000000,820000001,06TP097   PP      PROVER  00000580
+703010-20                                                                     CO-PDOC 200V WINNY PP    0000001,090000001,37TP097   PP      PROVER  00000250
+704767-20                                                                     CO-L2 PDOC 120V WINNY PP 0000001,700000001,83TP097   PP      PROVER  00000000
+706015-20                                                                     PDOC 60V CHIPIE PP 2007  0000000,830000002,93ALI     ALI             00000000
+70602709-20                                                                   PDOC 60V AIRNESS PP 2007 0000000,840000003,58ALI     ALI             00000000
+711002-20                                                                     A-PDOC 60V ANGOON PP     0000000,000000002,01TP100   PP      AUCHAN  00000000
+806015-20                                                                     PDOC A4 CHIPIE PP 08     0000000,810000003,92TP100   PP              00001350
+806027-20                                                                     PDOC 60V AIRNESS PP 08   0000000,750000003,69TP100   PP              00002640
+806052-20                                                                     PDOC 60V STA PP 08       0000000,860000003,62TP100   PP              00000495
+900605-03                                                                     SP-PDOC 20V 5* PP-BLE    0000000,360000002,08TP088   PP      SPICER  00000180
+900613-09                                                                     SP-PDOC 20V 5* PP-NOI    0000000,360000002,08TP088   PP      SPICER  00000000
+900621-13                                                                     SP-PDOC 20V 5* PP-RGE    0000000,360000002,08TP088   PP      SPICER  00000345
+900648-20                                                                     SP-PDOC 120V 5* PP-ASS   0000000,820000007,13TP088   PP      SPICER  00000168
+900656-20                                                                     SP-PDOC 160V 5* PP-ASS   0000001,020000009,75TP088   PP      SPICER  00000356
+900664-14                                                                     SP-PDOC 20V 5* PP-VRT    0000000,360000002,08TP088   PP      SPICER  00000000
+900672-20                                                                     SP-PDOC 20V 5* PP-ASS    0000000,360000002,08TP088   PP      SPICER  00000690
+900680-14                                                                     SP-PDOC 40V 5* PP-VRT    0000000,430000002,66TP088   PP      SPICER  00000000
+900729-14                                                                     SP-PDOC 60V 5* PP-VRT    0000000,510000003,40TP088   PP      SPICER  00000000
+900737-14                                                                     SP-PDOC 80V 5* PP-VRT    0000000,580000004,53TP088   PP      SPICER  00000000
+900745-14                                                                     SP-PDOC 100V 5* PP-VRT   0000000,690000005,84TP088   PP      SPICER  00000252
+900788-14                                                                     SP-PDOC 120V 5* PP-VRT   0000000,820000007,13TP088   PP      SPICER  00000000
+900796-03                                                                     SP-PDOC 160V 5* PP-BLE   0000001,020000009,75TP088   PP      SPICER  00000000
+900842-09                                                                     SP-PDOC 160V 5* PP-NOI   0000001,020000009,75TP088   PP      SPICER  00000000
+900850-13                                                                     SP-PDOC 160V 5* PP-RGE   0000001,020000009,75TP088   PP      SPICER  00000000
+900869-14                                                                     SP-PDOC 160V 5* PP-VERT  0000001,020000009,75TP088   PP      SPICER  00000000
+901147-03                                                                     SP-PDOC 40V 5* PP-BLE    0000000,430000002,66TP088   PP      SPICER  00000000
+901155-09                                                                     SP-PDOC 40V 5* PP-NOI    0000000,430000002,66TP088   PP      SPICER  00000000
+901163-13                                                                     SP-PDOC 40V 5* PP-RGE    0000000,430000002,66TP088   PP      SPICER  00000380
+901201-20                                                                     SP-PDOC 40V 5* PP-ASS    0000000,430000002,66TP088   PP      SPICER  00001680
+901228-03                                                                     SP-PDOC 60V 5* PP-BLE    0000000,510000003,40TP088   PP      SPICER  00000350
+901260-09                                                                     SP-PDOC 60V 5* PP-NOI    0000000,510000003,40TP088   PP      SPICER  00000700
+901279-13                                                                     SP-PDOC 60V 5* PP-RGE    0000000,510000003,40TP088   PP      SPICER  00000000
+901287-20                                                                     SP-PDOC 60V 5* PP-ASS    0000000,510000003,40TP088   PP      SPICER  00002800
+901325-03                                                                     SP-PDOC 80V 5* PP-BLE    0000000,580000004,53TP088   PP      SPICER  00000000
+901333-09                                                                     SP-PDOC 80V 5* PP-NOI    0000000,580000004,53TP088   PP      SPICER  00000280
+901341-13                                                                     SP-PDOC 80V 5* PP-RGE    0000000,580000004,53TP088   PP      SPICER  00000280
+901384-20                                                                     SP-PDOC 80V 5* PP-ASS    0000000,580000004,53TP088   PP      SPICER  00003088
+901392-03                                                                     SP-PDOC 100V 5* PP-BLE   0000000,690000005,84TP088   PP      SPICER  00000252
+901406-09                                                                     SP-PDOC 100V 5* PP-NOI   0000000,690000005,84TP088   PP      SPICER  00000090
+901449-13                                                                     SP-PDOC 100V 5* PP-RGE   0000000,690000005,84TP088   PP      SPICER  00000252
+901457-20                                                                     SP-PDOC 100V 5* PP-ASS   0000000,690000005,84TP088   PP      SPICER  00001008
+901465-03                                                                     SP-PDOC 120V 5* PP-BLE   0000000,820000007,13TP088   PP      SPICER  00000168
+901503-09                                                                     SP-PDOC 120V 5* PP-NOI   0000000,820000007,13TP088   PP      SPICER  00000000
+901511-13                                                                     SP-PDOC 120V 5* PP-RGE   0000000,820000007,13TP088   PP      SPICER  00000000
+904232-09                                                                     SP-PDOC 200V 5* PP-NOI   0000001,230000012,33TP088   PP      SPICER  00000628
+908625-01                                                                     SP-PDOC PERSO 40V 5* PP- 0000000,700000004,93TP087   PP      SPICER  00000000
+908633-09                                                                     SP-PDOC PERSO 40V 5* PP- 0000000,700000004,93TP087   PP      SPICER  00000336
+908641-01                                                                     SP-PDOC PERSO 60V 5* PP- 0000000,890000006,07TP087   PP      SPICER  00000000
+908668-09                                                                     SP-PDOC PERSO 60V 5* PP- 0000000,890000006,07TP087   PP      SPICER  00000318
+908676-01                                                                     SP-PDOC PERSO 80V 5* PP- 0000001,070000006,64TP087   PP      SPICER  00001320
+908684-09                                                                     SP-PDOC PERSO 80V 5* PP- 0000001,070000006,64TP087   PP      SPICER  00000424
+9285931-20                                                                    SU-L2PDOC 20V PP TRS-ASS 0000000,000000000,10TP087   PP      SYSTEM  00000000
+990048-20                                                                     PRESENT PDOC LE LUTIN    0000046,670000163,80TP015   PV              00000006
